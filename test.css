@@ -21,6 +21,38 @@ body {
 
 .menu {
 	font-size: 1.2em;
+	line-height: 1.2em;
+
+}
+
+.pilcrow1 {
+ color: goldenrod;
+ size: 3em;
+}
+.pilcrow2 {
+	color: plum;
+	 size: 3em;
+}
+.pilcrow3 {
+	color: teal;
+	 size: 3em;
+}
+.pilcrow4 {
+	color: tomato;
+	 size: 3em;
+}
+.pilcrow5 {
+	color: dodgerblue;
+	vertical-align: text-top;
+	position: absolute;
+	left: 3px;
+	font-size: 2em;
+}
+
+.pilcrow6 {
+	vertical-align: middle;
+	 font-size: 2em;
+	 color: cadetblue;
 }
 
 .column {
@@ -82,7 +114,6 @@ a:hover, a:active{
 .img-1 {
 	max-width: 100%;
 	height: auto;
-	max-height: 80vh;
 	width: auto\9;
 }
 
@@ -128,11 +159,36 @@ a:hover, a:active{
 		font-size: 1.2em;
 	}
 
+.pilcrow1 {
+ color: darkolivegreen;
+}
+.pilcrow2 {
+	color: firebrick;
+}
+.pilcrow3 {
+	color: lawngreen;
+}
+.pilcrow4 {
+	color: steelblue;
+}
+.pilcrow5 {
+	color: hotpink;
+}
+.pilcrow6 {
+	color: darkgoldenrod;
+}
+
+
+
 	[class*="img-"] {
 		width: 100%;
 
 	}
-	
+	.img1 {
+	max-width:750px;
+	}
+
+
 	.left {
 		width: 100%;
 	}
