@@ -1,4 +1,47 @@
-<img src="img/me.jpg" class="img-1"><br><br>Luc Rioual is a writer from Connecticut. He holds an MFA from Columbia University, and has been a resident at the Ucross Foundation. His first novel, <i>The John</i>, is available for representation.
+<img src="" class="img-1" id="randomImage"><br><br>Luc Rioual is a writer from Connecticut. He holds an MFA from Columbia University, and has been a resident at the Ucross Foundation. His first novel, <i>The John</i>, is available for representation.
 
 
-<br><br><br><br>
+<br><br><br><br> 
+
+
+
+
+
+
+<script>
+	document.addEventListener('DOMContentLoaded', () => {
+    const imageElement = document.getElementById('randomImage');
+    const images = [
+        'img/me/me_1.jpg',
+        'img/me/me_2.png',
+        'img/me/me_3.jpg',    
+        'img/me/me_4.jpg',
+        'img/me/me_7.jpg',
+        'img/me/me_8.jpg',    
+        'img/me/me_9.jpg',
+        'img/me/me_10.jpg',
+        'img/me/me_11.jpg',    
+        'img/me/me_12.jpg',
+        'img/me/me_14.jpg',
+        'img/me/me_15.jpg',
+        'img/me/me_17.jpg',
+        'img/me/me_18.jpg',
+        'img/me/me_19.jpg',
+        'img/me/me_20.jpg',
+        'img/me/me_21.jpg',
+        'img/me/me_23.jpg',
+        'img/me/me_25.jpg',
+        'img/me/me_26.jpg',
+        'img/me/me_27.jpg',
+		'img/me/me_29.jpg',
+        'img/me/me_30.jpg',
+        'img/me/me_55.png',
+        'img/me/me_66.png'
+    ];
+    
+    const randomIndex = Math.floor(Math.random() * images.length);
+    imageElement.src = images[randomIndex];
+});
+</script>
+
+ 
