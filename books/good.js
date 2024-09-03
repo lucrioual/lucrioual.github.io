@@ -59,7 +59,7 @@ goodBooks = [
   new Book("Fran Ross", "Oreo"),
   new Book("Darius James", "Negrophobia"),
   new Book("John Jeremiah Sullivan", "Blood Horses"),
-  new Book("Horacio Castellanos Moya", "Senselesslness"),
+  new Book("Horacio Castellanos Moya", "Senselessness"),
   new Book("Mary Robison", "Oh!"),
   new Book("Mary Robison", "Why Did I Ever"),
   new Book("Paula Fox", "Desperate Characters"),
