@@ -28,10 +28,12 @@
 		<script src="js/pages.js" type="text/javascript" charset="utf-8"></script>
 		<script src="js/goodbooks.js" type="text/javascript" charset="utf-8"></script>
 		<script src="books/good.js" type="text/javascript" charset="utf-8"></script>
-
+<!--end-->
 
 
 	</head>
+
+
 	<body>
 
 
@@ -54,7 +56,6 @@
 							<div class="menu"><a href="http://youngluc.substack.com" target="_blank">newsletter</a><br><br>
 
 
-<!--random good book generator, idea and all, cobbled together from rivka galchen's now defunct website-->
 
 							<a href="#"><div id="random_good_book_button">random <br>good book <br>:)</div></a>
 							</div>
@@ -80,26 +81,38 @@
 
 				<div class="column right">
        				<div id="content-frame"></div>
-   				 <script>
-			        document.querySelectorAll('.nav-links a').forEach(link => {
-			            link.addEventListener('click', function (event) {
-			                event.preventDefault();
-			                const file = this.getAttribute('data-file');
-			                fetch(file)
-			                    .then(response => {
-			                        if (!response.ok) {
-			                            throw new Error('Network response was not ok');
-			                        }
-			                        return response.text();
-			                    })
-			                    .then(html => document.getElementById('content-frame').innerHTML = html)
-			                    .catch(() => document.getElementById('content-frame').innerHTML = 'Error loading file.');
-			            });
-			        });
-			    </script>
-				</div>
+   				
 
-	<!--click scripts-->		
+
+
+				<script>
+				document.querySelectorAll('.nav-links a').forEach(link => {
+				    link.addEventListener('click', function (event) {
+				        event.preventDefault();
+				        const file = this.getAttribute('data-file');
+				        fetch(file)
+				            .then(response => {
+				                if (!response.ok) {
+				                    throw new Error('Network response was not ok');
+				                }
+				                return response.text();
+				            })
+				            .then(html => {
+				                document.getElementById('content-frame').innerHTML = html;
+				                if (file === 'about.html') {
+				                    // Dispatch a custom event when 'about.html' is successfully loaded
+				                    document.dispatchEvent(new Event('aboutPageLoaded'));
+				                }
+				            })
+				            .catch(() => document.getElementById('content-frame').innerHTML = 'Error loading file.');
+				    });
+				});
+				</script>
+
+
+
+	<!--page scripts-->		
+	
 	<script>
 		function myFunction() {
 		    var x = document.getElementById('myDIV');
@@ -110,6 +123,7 @@
 		    }
 		}
 	</script>
+
 	<script>
 		function myFunction1() {
 		    var x = document.getElementById('myDIV1');
@@ -120,16 +134,87 @@
 		    }
 		}
 	</script>
+
 	<script>
-function myFunction2() {
-    var x = document.getElementById('myDIV2');
-    if (x.style.display === 'none') {
-        x.style.display = 'block';
-    } else {
-        x.style.display = 'none';
-    }
-}
+		function myFunction2() {
+		    var x = document.getElementById('myDIV2');
+		    if (x.style.display === 'none') {
+		        x.style.display = 'block';
+		    } else {
+		        x.style.display = 'none';
+		    }
+		}
+	</script>
+
+	<script>
+		function myFunction3() {
+		    var x = document.getElementById('myDIV3');
+		    if (x.style.display === 'none') {
+		        x.style.display = 'block';
+		    } else {
+		        x.style.display = 'none';
+		    }
+		}
+	</script>
+
+	<script>
+		function myFunction4() {
+		    var x = document.getElementById('myDIV4');
+		    if (x.style.display === 'none') {
+		        x.style.display = 'block';
+		    } else {
+		        x.style.display = 'none';
+		    }
+		}
+	</script>
+
+
+<script>
+document.addEventListener('DOMContentLoaded', () => {
+    // Function to set a random image
+    const setRandomImage = () => {
+        const imageElement = document.getElementById('randomImage');
+        const images = [
+        'img/me/me_1.jpg',
+        'img/me/me_2.png',
+        'img/me/me_3.jpg',    
+        'img/me/me_4.jpg',
+        'img/me/me_7.jpg',
+        'img/me/me_8.jpg',    
+        'img/me/me_9.jpg',
+        'img/me/me_10.jpg',
+        'img/me/me_11.jpg',    
+        'img/me/me_12.jpg',
+        'img/me/me_14.jpg',
+        'img/me/me_15.jpg',
+        'img/me/me_17.jpg',
+        'img/me/me_19.jpg',
+        'img/me/me_20.jpg',
+        'img/me/me_21.jpg',
+        'img/me/me_23.jpg',
+        'img/me/me_25.jpg',
+        'img/me/me_26.jpg',
+        'img/me/me_27.jpg',
+		'img/me/me_29.jpg',
+        'img/me/me_30.jpg',
+        'img/me/me_55.png',
+        'img/me/me_66.png'
+        ];
+        const randomIndex = Math.floor(Math.random() * images.length);
+        imageElement.src = images[randomIndex];
+    };
+
+    // Listen for the custom event from the first script
+    document.addEventListener('aboutPageLoaded', setRandomImage);
+});
 </script>
+
+
 	</body>
 </html>
+
+
+
+
+
 
