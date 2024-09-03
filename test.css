@@ -50,9 +50,11 @@ body {
 }
 
 .pilcrow6 {
+	position: absolute;
+	left: 3px;
 	vertical-align: middle;
-	 font-size: 2em;
-	 color: cadetblue;
+	font-size: 2em;
+	color: cadetblue;
 }
 
 .column {
