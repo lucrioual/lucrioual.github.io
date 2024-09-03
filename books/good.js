@@ -76,7 +76,7 @@ goodBooks = [
   new Book("Amy Fusselman", "The Mean$"),
   new Book("Sir Thomas Browne", "Urne-Buriall"),
   new Book("Phyllis Rose", "Parallel Lives"),
-  new Book("Peter de Vries", "The Blood of the Lamb"),
+  new Book("Peter De Vries", "The Blood of the Lamb"),
   new Book("John Ruskin", "Unto this Last"),
   new Book("Jean Toomer", "Cane"),
   new Book("Joseph Heller", "Something Happened"),
