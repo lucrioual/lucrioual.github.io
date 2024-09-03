@@ -1,0 +1,135 @@
+
+<!doctype html>
+<html lang="en">
+	<head>
+		<!--TEMP LINE-->
+		<META HTTP-EQUIV="PRAGMA" CONTENT="NO-CACHE"> 
+		<!--END TEMP LINE-->
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta charset="utf-8" />
+	<link rel="preconnect" href="https://fonts.googleapis.com" />
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+	<link
+		href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500&family=IBM+Plex+Sans:ital,wght@0,300;0,400;0,500;1,400&display=swap"
+		rel="stylesheet"
+	/>
+	<link 
+		href="https://fonts.googleapis.com/css2?family=IBM+Plex+Serif:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;1,100;1,200;1,300;1,400;1,500;1,600;1,700&display=swap" rel="stylesheet">
+	<link 
+		href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans+Condensed:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;1,100;1,200;1,300;1,400;1,500;1,600;1,700&display=swap" rel="stylesheet">
+
+	<link rel="stylesheet" href="test.css">
+	<link rel="icon" type="image/x-icon" href="/img/favicon.ico">
+
+
+<!-- random book generator scripts-->
+
+		<script src="js/jquery-1.3.1.min.js" type="text/javascript" charset="utf-8"></script>
+		<script src="js/pages.js" type="text/javascript" charset="utf-8"></script>
+		<script src="js/goodbooks.js" type="text/javascript" charset="utf-8"></script>
+		<script src="books/good.js" type="text/javascript" charset="utf-8"></script>
+
+
+
+	</head>
+	<body>
+
+
+
+			<div class="row">
+				
+				<div class="column left">
+					<img class="tophat" src="img/tophat1.png"><br><div class="big">LUC RIOUAL</div>
+					~~~~~~~~~~~~<br>
+					<div class="column indent"> 
+						<div class="nav-links"> 
+							<div class="menu">
+							<a href="#" data-file="about.html">about</a><br>
+							<a href="#" data-file="writing.html">writing</a><br>
+							<a href="#" data-file="zines.html">zines</a><br>
+							<a href="#" data-file="contact.html">contact</a><br>
+							</div>
+						</div>
+						<br>
+							<div class="menu"><a href="http://youngluc.substack.com" target="_blank">newsletter</a><br><br>
+
+
+<!--random good book generator, idea and all, cobbled together from rivka galchen's now defunct website-->
+
+							<a href="#"><div id="random_good_book_button">random <br>good book <br>:)</div></a>
+							</div>
+
+
+
+
+
+		<div id="frame">
+			<div class="button rectangle_button" id="random_good_book_button">
+			</div>
+				<div id="random_good_book" class="inactive">
+				</div>
+				
+
+			</div>
+		</div>
+
+
+					</div>
+
+				</div>
+
+				<div class="column right">
+       				<div id="content-frame"></div>
+   				 <script>
+			        document.querySelectorAll('.nav-links a').forEach(link => {
+			            link.addEventListener('click', function (event) {
+			                event.preventDefault();
+			                const file = this.getAttribute('data-file');
+			                fetch(file)
+			                    .then(response => {
+			                        if (!response.ok) {
+			                            throw new Error('Network response was not ok');
+			                        }
+			                        return response.text();
+			                    })
+			                    .then(html => document.getElementById('content-frame').innerHTML = html)
+			                    .catch(() => document.getElementById('content-frame').innerHTML = 'Error loading file.');
+			            });
+			        });
+			    </script>
+				</div>
+
+	<!--click scripts-->		
+	<script>
+		function myFunction() {
+		    var x = document.getElementById('myDIV');
+		    if (x.style.display === 'none') {
+		        x.style.display = 'block';
+		    } else {
+		        x.style.display = 'none';
+		    }
+		}
+	</script>
+	<script>
+		function myFunction1() {
+		    var x = document.getElementById('myDIV1');
+		    if (x.style.display === 'none') {
+		        x.style.display = 'block';
+		    } else {
+		        x.style.display = 'none';
+		    }
+		}
+	</script>
+	<script>
+function myFunction2() {
+    var x = document.getElementById('myDIV2');
+    if (x.style.display === 'none') {
+        x.style.display = 'block';
+    } else {
+        x.style.display = 'none';
+    }
+}
+</script>
+	</body>
+</html>
+

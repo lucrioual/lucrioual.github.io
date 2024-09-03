@@ -1,0 +1,210 @@
+body {
+	background-color: powderblue;
+	font-family: 'IBM Plex Mono';
+	font-size: .75em;
+
+}
+
+.big {
+	font-family: "IBM Plex Sans Condensed";
+	font-size: 1.4em;
+	font-weight: 500;
+	letter-spacing: 0.15em;
+}
+
+.zinetitle {
+	font-size: 3em;
+	font-weight: 500;
+	font-style: italic;
+	margin-bottom: 5px;
+}
+
+.menu {
+	font-size: 1.2em;
+}
+
+.column {
+	float: left;
+
+}
+
+.left {
+	width: 15%;
+}
+
+.right {
+	width: 70%;
+}
+
+.padding {
+	width: 25%;	
+}
+
+.indent {
+	margin-top: 0;
+	margin-left: 3px;
+}
+
+.indent2 {
+	margin-top:0;
+	margin-left: 20px;
+	margin-right: 35px;
+}
+
+.saletxt {
+	margin-top: 05px;
+
+}
+  p.shit {
+         text-indent: -30px;
+         padding-left: 30px;
+         margin-bottom: 0;
+      }
+
+
+a, a:link, a:visited {
+	color: #266699 !important;
+}
+
+
+a:hover, a:active{
+	color: #004863 !important;
+    text-decoration:wavy underline;
+}
+
+.tophat {
+	width: 75%;
+	max-width: 150px;
+	height: auto;
+	width: auto\9;
+}
+
+.img-1 {
+	max-width: 100%;
+	height: auto;
+	width: auto\9;
+}
+
+.img-3 {
+	width: 35%;
+	max-width: 500px;
+	height: auto;
+
+
+}
+.zine {
+	width: 60%;
+	height: auto;
+}
+
+.grid {
+	display: grid;
+	grid-template-columns: .4fr 1fr;
+	grid-template-rows: 1fr;
+	gap: 10px;
+}
+
+#venmo {
+    width: 100%;
+    padding: 50px 0;
+    text-align: center;
+    background-color: lightblue;
+    margin-top:20px;
+}
+
+
+/* MOBILE */
+
+
+@media only screen and (max-width: 750px) {
+	
+	body {
+		background-color: darkseagreen;
+
+	}
+	
+	.menu {
+		font-size: 1.2em;
+	}
+
+	[class*="img-"] {
+		width: 100%;
+
+	}
+	
+	.left {
+		width: 100%;
+	}
+
+	.right {
+		width: 100%;
+		margin-top: 30px;
+	}
+	
+	.zine {
+		width: 100%;
+		height: auto;
+	}
+
+	.grid {
+		display: grid;
+		grid-template-columns: 1fr 1fr;
+		grid-template-rows: 1fr;
+		gap: 15px;
+	}
+
+	a, a:link, a:visited {
+		color: #3e6300 !important;
+	}
+
+
+	a:hover, a:active{
+		color: #6f90ff !important;
+	    text-decoration:wavy underline;
+	}
+
+
+
+	.bookhr {
+		height: 5px;
+		color: #ed1d61;
+
+	}
+
+
+
+}
+
+
+/* RANDOM BOOK GENERATOR */
+
+.button {
+
+}
+
+#random_good_book_button,
+#random_good_book_button img {
+
+}
+
+#random_good_book p {
+	margin-top: 4em;
+	font-size: 1em;
+}
+#random_good_book em {
+	text-decoration: underline;
+}
+#random_good_book a {
+	text-decoration: none;
+	font-style: normal;
+}
+
+
+/*.randombookline {
+		border-bottom-color: #283428;
+		border-bottom-width: 2px;
+		border-bottom-style: dashed;
+		padding-bottom: 15px;
+}*/
+
+
