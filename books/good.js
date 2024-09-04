@@ -49,7 +49,7 @@ goodBooks = [
   new Book("Denis Donoghue", "Speaking of Beauty"),
   new Book("Margaret Drabble", "The Millstone"),
   new Book("Barbara Pym", "Excellent Women"),
-  new Book("Barbara Pym", "Quartet"),
+  new Book("Barbara Pym", "Quartet in Autumn"),
   new Book("Thomas McGuane", "The Bushwacked Piano"),
   new Book("John le Carré", "Tinker Tailor Soldier Spy"),
   new Book("Reginald Reynolds", "Cleanliness and Godliness"),
@@ -112,7 +112,7 @@ goodBooks = [
   new Book("Donald Antrim", "Elect Mr. Robinson for a Better World"),
   new Book("Gwendoline Riley", "First Love"),
   new Book("Percival Everett", "American Desert"),
-  new Book("Henry Adams", "Mont St. Michel & Chartres"),
+  new Book("Henry Adams", "Mont St. Michel and Chartres"),
   new Book("Hugh Kenner", "The Counterfeiters"),
   new Book("Javier Marias", "Your Face Tomorrow"),
   new Book("Nan Fairbrother", "Men and Gardens"),
@@ -159,12 +159,14 @@ goodBooks = [
   new Book("Gordon Lish","Extravaganza"),
   new Book("Peter Streckfus","Cuckoo"),
   new Book("Claude Lévi-Strauss", "Tristes Tropiques"),
-  new Book("Enrique Vila-Matas", "Bartleby & Co."),
+  new Book("Enrique Vila-Matas", "Bartleby and Co."),
   new Book("Daniel Sada", "Almost Never"),
   new Book("Iris Owens", "After Claude"),
   new Book("Vladimir Nabokov","Pnin"),
   new Book("Don Delillo", "Libra"),
-  new Book("V. S. Naipaul", "The Enigma of Arrival")
+  new Book("V. S. Naipaul", "The Enigma of Arrival"),
+  new Book("Victor Pelevin", "The Hall of Singing Caryatids"),
+  new Book("Robert Walser", "The Walk")
 
 
 ];
