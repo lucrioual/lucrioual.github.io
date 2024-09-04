@@ -145,7 +145,7 @@ goodBooks = [
   new Book("Frank Bidart", "Desire"),
   new Book("Jack Gilbert", "The Great Fires"),
   new Book("Kathleen Graber", "The Eternal City"),
-  new Book("Kathleen Graber", "The City Twice"),
+  new Book("Kathleen Graber", "The River Twice"),
   new Book("Larry Levis","Winter Stars"),
   new Book("Ciaran Berry", "The Dead Zoo"),
   new Book("Ciaran Berry", "The Sphere of Birds"),
