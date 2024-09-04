@@ -34,7 +34,7 @@ goodBooks = [
   new Book("Grace Paley", "Collected Stories"),
   new Book("Flannery O' Connor", "Everything that Rises Must Converge",),
   new Book("Joris-Karl Huysman","Against Nature"),
-  new Book("Nicholson Baker", "The Mezzanine"),
+  new Book("Nicholson Baker", "Room Temperature"),
   new Book("David Foster Wallace", "Oblivion"), 
   new Book("Nicholson Baker", "U & I"),
   new Book("Gerald Warner Brace", "The Department"),
@@ -76,7 +76,7 @@ goodBooks = [
   new Book("Amy Fusselman", "The Mean$"),
   new Book("Sir Thomas Browne", "Urne-Buriall"),
   new Book("Phyllis Rose", "Parallel Lives"),
-  new Book("Peter De Vries", "The Blood of the Lamb"),
+  new Book("Peter de Vries", "The Blood of the Lamb"),
   new Book("John Ruskin", "Unto this Last"),
   new Book("Jean Toomer", "Cane"),
   new Book("Joseph Heller", "Something Happened"),
@@ -125,7 +125,7 @@ goodBooks = [
   new Book("Holbrook Jackson", "The Anatomy of Bibliomania"),
   new Book("Henri Amiel", "The Private Journal"),
   new Book("Evelyn Waugh", "Decline and Fall"),
-  new Book("Paul Valéry", "Monsier Teste"),
+  new Book("Paul Valéry", "Monsieur Teste"),
   new Book("Francis Ponge", "Soap"),
   new Book("Carol Mavor", "Reading Boyishly"),
   new Book("Eve Kosofsky Sedgwick", "A Dialogue on Love"),
@@ -148,7 +148,25 @@ goodBooks = [
   new Book("Kathleen Graber", "The City Twice"),
   new Book("Larry Levis","Winter Stars"),
   new Book("Ciaran Berry", "The Dead Zoo"),
-  new Book("Ciaran Berry", "The Sphere of Birds")
+  new Book("Ciaran Berry", "The Sphere of Birds"),
+  new Book("Frederick Exley", "A Fan's Notes"),
+  new Book("Diogenes Laërtius", "Lives and Opinions of Eminent Philosophers"),
+  new Book("Richard Brautigan", "The Abortion"),
+  new Book("Charles Portis", "Masters of Atlantis"),
+  new Book("Susan Howe", "My Emily Dickinson"),
+  new Book("Isaac D'Israeli", "Curiosities of Literature"),
+  new Book("George Saintsbury", "A History of English Prose Rhythm"),
+  new Book("Gordon Lish","Extravaganza"),
+  new Book("Peter Streckfus","Cuckoo"),
+  new Book("Claude Lévi-Strauss", "Tristes Tropiques"),
+  new Book("Enrique Vila-Matas", "Bartleby & Co."),
+  new Book("Daniel Sada", "Almost Never"),
+  new Book("Iris Owens", "After Claude"),
+  new Book("Vladimir Nabokov","Pnin"),
+  new Book("Don Delillo", "Libra"),
+  new Book("V. S. Naipaul", "The Enigma of Arrival")
+
+
 ];
 
 }
