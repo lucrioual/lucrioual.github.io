@@ -79,7 +79,6 @@ function renderPosts(filteredPosts) {
     });
 }
 
-
 // Function to render authors in the sidebar
 function renderAuthors(posts) {
     const authorsSet = new Set();
@@ -103,16 +102,6 @@ function renderAuthors(posts) {
     });
 }
 
-
- /*const selectedHeader = document.createElement('div');
-    selectedHeader.id = 'selected-header';
-    selectedHeader.classList.add('hidden');
-    selectedHeader.classList.add('selected-header'); // Add a CSS class for custom styling
-    document.body.insertBefore(selectedHeader, document.getElementById('blog-posts'));
-*/
-
-
-
 // Function to render authoref in the sidebar
 function renderAuthoref(posts) {
     const authorefSet = new Set();
@@ -121,8 +110,6 @@ function renderAuthoref(posts) {
             authorefSet.add(post.authoref);
         }
     });
-
-
 
     const authorefList = document.getElementById('authoref-list');
     authorefList.innerHTML = '';
@@ -153,8 +140,6 @@ function countPostsByBooktitle(booktitle) {
     return posts.filter(post => post.booktitle === booktitle).length;
 }
 
-
-
 // Function to render book titles for a specific author
 function renderBookTitlesForAuthor(author) {
     const booktitlesSet = new Set();
@@ -166,7 +151,6 @@ function renderBookTitlesForAuthor(author) {
 
     const booktitleList = document.getElementById('booktitle-list');
     booktitleList.innerHTML = ''; // Clear existing book titles
-
 
     if (booktitlesSet.size > 0) {
         booktitleList.classList.remove('hidden');
@@ -243,14 +227,58 @@ function showSidebarView(view) {
     }
 }
 
-
 // Function to update the selected header
 function updateSelectedHeader(text) {
     const selectedHeader = document.getElementById('selected-header');
-    selectedHeader.textContent = text;
+    selectedHeader.innerHTML = '<span class="selectedhead">' + text + '</span>';
     selectedHeader.classList.remove('hidden'); // Ensure the header is visible
 }
 
+// Utility function for deep equality check
+function deepEqual(a, b) {
+    if (a === b) return true;
+    if (typeof a !== 'object' || typeof b !== 'object' || a === null || b === null) return false;
+    
+    let keysA = Object.keys(a);
+    let keysB = Object.keys(b);
+    
+    if (keysA.length !== keysB.length) return false;
+    
+    for (let key of keysA) {
+        if (!keysB.includes(key) || !deepEqual(a[key], b[key])) return false;
+    }
+    
+    return true;
+}
+
+// Function to check if author matches any authoref
+function checkAuthorAgainstAuthoref(author) {
+    const authorefPosts = posts.filter(post => post.authoref && deepEqual(post.authoref, author));
+    const authorefLinkDiv = document.getElementById('authoref-link');
+    authorefLinkDiv.innerHTML = ''; // Clear existing links
+
+    if (authorefPosts.length > 0) {
+        authorefLinkDiv.classList.remove('hidden');
+
+
+        authorefPosts.forEach(post => {
+            const link = document.createElement('span');
+            link.innerHTML = `abouteeeeeeeeeeeee`; // Display part of the content or another identifier
+            link.classList.add('refabout'); 
+
+            link.addEventListener('click', (event) => {
+                event.preventDefault(); // Prevent default link behavior
+                filterPostsByAuthoref(post.authoref); // Filter posts by authoref
+                updateSelectedHeader(`<p class="selectedabout">about</p> ${post.authoref}`);
+                authorefLinkDiv.classList.add('hidden');
+            });
+
+           authorefLinkDiv.appendChild(link);
+        });
+    } else {
+        authorefLinkDiv.classList.add('hidden'); // Hide if no matching authoref
+    }
+}
 
 // Function to filter posts by a specific author
 function filterPostsByAuthor(author) {
@@ -259,8 +287,8 @@ function filterPostsByAuthor(author) {
 
     renderPosts(filteredPosts);
     renderBookTitlesForAuthor(author); // Render book titles for the selected author
+    checkAuthorAgainstAuthoref(author); // Check author against authoref
 }
-
 
 // Initialize the blog
 function initializeBlog() {

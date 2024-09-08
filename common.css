@@ -63,7 +63,6 @@ aside {
     background-color: #2e4865;
     color: #7e9ec1;
     font-size: 1.4em;
-    font-variant: all-petite-caps;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -73,10 +72,26 @@ aside {
     margin-top: 15px;
     letter-spacing: .25em;
     border: 1px solid #7e9ec1;
-    text-transform: uppercase;
     display: flex;
 
 }
+
+.selectedhead {
+	font-variant: all-petite-caps;
+}
+
+.selectedabout {
+	font-style: oblique;
+    font-variant: normal;
+    font-size: .75em;
+    display: block;
+    margin-block-start: 0em;
+    margin-block-end: 0em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    unicode-bidi: isolate;
+}
+
 
 
 /*.hidden {
@@ -166,6 +181,19 @@ li {
 	white-space: nowrap;
 }
 
+/*div.refabout {
+    /*border: 1px solid #7e9ec1;
+    background-color: #2e4865; 
+    margin-bottom: 15px;
+    margin-top: 15px;
+    vertical-align: middle;  
+}
+*/
+
+span.refabout {
+	font-size: 4em;
+
+}
 
 
 
