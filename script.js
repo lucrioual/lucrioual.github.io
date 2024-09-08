@@ -43,7 +43,7 @@ function renderPosts(filteredPosts) {
             postContent += `<br>&nbsp;&nbsp;<span class="booktitle" data-booktitle="${post.booktitle}">${post.booktitle}</span></div>`;
         }
 
-        postContent += '</div>';
+            postContent += '</div>';
         
         // Set the innerHTML of postElement
         postElement.innerHTML = postContent;
@@ -196,6 +196,9 @@ function renderBookTitles() {
     });
 }
 
+
+
+
 // Function to filter posts by a specific authoref
 function filterPostsByAuthoref(authoref) {
     currentFilter = { type: 'authoref', value: authoref }; // Set the current filter
@@ -227,12 +230,6 @@ function showSidebarView(view) {
     }
 }
 
-// Function to update the selected header
-function updateSelectedHeader(text) {
-    const selectedHeader = document.getElementById('selected-header');
-    selectedHeader.innerHTML = '<span class="selectedhead">' + text + '</span>';
-    selectedHeader.classList.remove('hidden'); // Ensure the header is visible
-}
 
 // Utility function for deep equality check
 function deepEqual(a, b) {
@@ -251,6 +248,20 @@ function deepEqual(a, b) {
     return true;
 }
 
+
+
+
+
+
+
+// Function to update the selected header
+function updateSelectedHeader(text) {
+    const selectedHeader = document.getElementById('selected-header');
+    selectedHeader.innerHTML = '<span class="selectedhead">' + text + '</span>';
+    selectedHeader.classList.remove('hidden'); // Ensure the header is visible
+}
+
+
 // Function to check if author matches any authoref
 function checkAuthorAgainstAuthoref(author) {
     const authorefPosts = posts.filter(post => post.authoref && deepEqual(post.authoref, author));
@@ -260,8 +271,7 @@ function checkAuthorAgainstAuthoref(author) {
     if (authorefPosts.length > 0) {
         authorefLinkDiv.classList.remove('hidden');
 
-
-        authorefPosts.forEach(post => {
+            const post = authorefPosts[0]
             const link = document.createElement('span');
             link.innerHTML = `abouteeeeeeeeeeeee`; // Display part of the content or another identifier
             link.classList.add('refabout'); 
@@ -274,11 +284,14 @@ function checkAuthorAgainstAuthoref(author) {
             });
 
            authorefLinkDiv.appendChild(link);
-        });
+
     } else {
         authorefLinkDiv.classList.add('hidden'); // Hide if no matching authoref
     }
 }
+
+
+
 
 // Function to filter posts by a specific author
 function filterPostsByAuthor(author) {
