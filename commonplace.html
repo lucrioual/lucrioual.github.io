@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <link
+        href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500&family=IBM+Plex+Sans:ital,wght@0,300;0,400;0,500;1,400&display=swap"
+        rel="stylesheet"
+    />
+    <link 
+        href="https://fonts.googleapis.com/css2?family=IBM+Plex+Serif:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;1,100;1,200;1,300;1,400;1,500;1,600;1,700&display=swap" rel="stylesheet">
+    <link 
+        href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans+Condensed:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;1,100;1,200;1,300;1,400;1,500;1,600;1,700&display=swap" rel="stylesheet">    
+    <link rel="stylesheet" href="common.css">
+    <style>
+        .sidebar { display: flex; flex-direction: column; }
+        .hidden { display: none; }
+        .sidebar-link { cursor: pointer; text-decoration: underline; margin-bottom: 10px; }
+        .sidebar-link:hover {}
+    </style>
+
+</head>
+
+
+
+<body>
+    <div class="fullbox-1">
+        <aside>
+            <span class="sidebar-link" data-view="authors">Authors</span> | <span class="sidebar-link" data-view="authoref">Subjects</span>
+        </aside>  
+    </div>
+
+    <div class="fullbox-2">
+        <div class="grid-list">
+            <div id="author-list" class="hidden"></div>
+            <div id="authoref-list" class="hidden"></div>
+        </div>
+    </div>
+
+                <div id="booktitle-list" class="fullbox-3">
+                 </div>
+
+    <div id="blog-posts" class="blog-posts"></div>
+
+
+
+    <script src="script.js"></script>
+</body>
+</html>
+
+
+
