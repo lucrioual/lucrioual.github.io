@@ -63,16 +63,13 @@ aside {
     background-color: #2e4865;
     color: #7e9ec1;
     font-size: 1.4em;
-    display: flex;
     justify-content: center;
     align-items: center;
     padding-bottom: 20px;
     padding-top: 20px;
-    margin-bottom: 15px;
     margin-top: 15px;
     letter-spacing: .25em;
     border: 1px solid #7e9ec1;
-    display: flex;
 
 }
 
@@ -90,6 +87,9 @@ aside {
     margin-inline-start: 0px;
     margin-inline-end: 0px;
     unicode-bidi: isolate;
+    text-decoration: underline;
+    text-underline-offset: 2px;
+    color: #efefef;
 }
 
 
@@ -117,6 +117,8 @@ aside {
 .blog-posts {
 	padding-left: 15px;
 	padding-right: 15px;
+	margin-top: 15px;
+
 }
 
 
@@ -160,7 +162,7 @@ li {
 }
 
 .grid-list {
-	column-width: 25ch;
+	column-width: 24ch;
 	column-count: 3;
 	column-gap: .5rem;
 }
@@ -190,10 +192,39 @@ li {
 }
 */
 
-span.refabout {
-	font-size: 4em;
-
+div.refabout {
+	font-size: .7em;
+	font-style: italic;
+	color: #e4e4e4;
+	padding-top: 3px;
 }
+div.refabout:hover {
+	color: #9db1ff;
+}
+
+.tag {
+	color: cadetblue;
+}
+
+
+
+
+
+@media only screen and (max-width: 750px) {
+	
+	body {
+width: 85%;
+	margin-right: 7.5%;
+	margin-left: 7.5%;
+
+	}
+	
+
+
+
+
+
+
 
 
 
