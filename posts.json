@@ -1,7 +1,6 @@
 [
     {
         "content": "Whence then is it that we remain still barbarians?",
-        "tags": ["baseball"],
         "author": "Friedrich Schiller",
         "authoref": "",
         "booktitle": "On the Aesthetic Education of Man"
@@ -9,7 +8,6 @@
 
     {
         "content": "For if we both of us, reader and writer, command our common language—and if not, why go on?—then we both know, potentially, whatever it can say, and shall neither of us gain anything if I raise my voice.",
-        "tags": ["baseball", "sports", "fucking", "spin class", "boobieshehehe"],
         "author": "Hugh Kenner",
         "authoref": "Louis Zukofsky",
         "booktitle": "Prepositions"
@@ -23,7 +21,6 @@
     },
     {
         "content": "Let the green grass nourish, with transmuted solar energies, whoso would browse.",
-        "tags": ["pinky"],
         "author": "Hugh Kenner",
         "authoref": "",
         "booktitle": "The Pound Era"
@@ -106,15 +103,204 @@
         "authoref": "",
         "booktitle": "On the Aesthetic Education of Man"
     },
-     {
-        "content": "Blahalhalbhalbhalbhalbhalbhalba",
-        "author": "Friedrich Schiller",
-        "authoref": "Kenneth Burke",
-        "booktitle": "On the Aesthetic Education of Man"
-    }
 
+    {
+        "content": "There have been, among the saints, thieves, beggars, and vagabonds, even men who killed. that they turned the fury of their impulses toward good and toward God instead of toward the evil they knew perfectly well existed, is their accolade. It is the reason that spying on them is such a satisfying pursuit. Not much of the glory rubs off on the pursuer but then a bird-watcher does not expect to learn how to fly. His, like mine, is a spectator's delight.",
+        "author": "Phyllis McGinley",
+        "tags": ["saints"],
+        "authoref": "",
+        "booktitle": "Saint-Watching"
+    },
+     {
+        "content": "I love Francis Xavier because of many things&mdash;his zeal, his charity, his footsore journeys across the world to bring light to the pagan. But I cherish him chiefly because his nature was so affectionat ethat, thousands of miles away from home and his brother Jesuits, he cut the signatures fromtheir letters to him and pinned them inside his habit next to his heart.",
+        "author": "Phyllis McGinley",
+        "authoref": "",
+        "tags": ["saints"],
+        "booktitle": "Saint-Watching"
+    },
+     {
+        "content": "(She was also so holy that in her ecstasies of prayer, it is said, she was forced sometimes to hold on to the altar rail to keep herself from floating embarassingly upward.)",
+        "author": "Phyllis McGinley",
+        "tags": ["saints"],
+        "authoref": "St. Teresa of Avila",
+        "booktitle": "Saint-Watching"
+    },
+     {
+        "content": "A willingness to let others be comfortable while living austerely oneself seems to me the hight of generosity.",
+        "author": "Phyllis McGinley",
+        "tags": ["virtue"],
+        "authoref": "",
+        "booktitle": "Saint-Watching"
+    },
+     
+     {
+        "content": "I like to be told that a legendary Saint Gothard is supposed to have hung his cloak on a sunbeam when he could not find a hook, and that a genuine Nichols the Pilgrim was a shepherd who kept his sheep calm by singing them the &quot;<em>Kyrie Eleison</em>&quot;. I am fond of Sabrinus, who understood the language of birds, and preached to them by note; and of Datiius, who made fn of the Devil and vanquished him by mockery. It takes a saint to turn the devil's weapon against him so skillfully.",
+        "author": "Phyllis McGinley",
+        "tags": ["saints"],
+        "authoref": "",
+        "booktitle": "Saint-Watching"
+    },
+     
+     {
+        "content": "My pet among the prayerful is Blessed Mariolino, who spent so much time in soliciting God's mercy for sinners that after his death heavy calluses were found on both knees.",
+        "author": "Phyllis McGinley",
+        "tags": ["saints"],
+        "authoref": "",
+        "booktitle": "Saint-Watching"
+    },
+     
+     {
+        "content": "Ours is a carnal time, with every relationship suspect or explained away by psychiatry. It restores the spirit to learn that there can be freindships where nothing is asked and everything given; where innocence flourishes as if there had never been a Fall.",
+        "author": "Phyllis McGinley",
+        "tags": ["virtue", "saints"],
+        "authoref": "",
+        "booktitle": "Saint-Watching"
+    },
+     
+     {
+        "content": "The habit of kindness thrives on practice.",
+        "author": "Phyllis McGinley",
+        "tags": ["virtue"],
+        "authoref": "",
+        "booktitle": "Saint-Watching"
+    },
+     
+     {
+        "content": "&quot;You are accused of teaching novelities,&quot; said the Father. &quot;What have you to say for yourself?&quot; &quot;My Lord,&quot; answer Ignatius smoothly, &quot;I should not have though tit had been any novelty to speak of Christ to Christians.&quot;",
+        "author": "Phyllis McGinley",
+        "tags": ["saints"],
+        "authoref": "St. Ignatius",
+        "booktitle": "Saint-Watching"
+    },
+     
+     {
+        "content": "One Day Luther lost patience with Melanchthon's virtuous reserve. &quot;For heaven's sake,&quot; he roared, &quot;why don't you go out and sin a little? God deserves sto have something to forgive you for!&quot;",
+        "author": "Phyllis McGinley",
+        "tags": ["saints", "virtue"],
+        "authoref": "Martin Luther",
+        "booktitle": "Saint-Watching"
+    },
+     
+     {
+        "content": "Simeon, by our standards, was a lunatic. &quot;Even the Desert Fathers,&quot; says one historian, &quot;were distugsted by his personal habits.&quot;",
+        "author": "Phyllis McGinley",
+        "tags": ["saints"],
+        "authoref": "Saint Simeon",
+        "booktitle": "Saint-Watching"
+    },
+     
+     {
+        "content": "In those spectacle-starved days people went to stare at hermits as they might now come to Disneyland.",
+        "author": "Phyllis McGinley",
+        "tags": ["saints"],
+        "authoref": "Saint Simeon",
+        "booktitle": "Saint-Watching"
+    },
+     
+     {
+        "content": "Chaos was Augustine's inheritance.",
+        "author": "Phyllis McGinley",
+        "tags": ["saints"],
+        "authoref": "Augustine",
+        "booktitle": "Saint-Watching"
+    },
+     
+     {
+        "content": "Books are the most puissant weapons on earth, and we, in this word-ridden age, out to give thought to their power.",
+        "author": "Phyllis McGinley",
+        "tags": ["books"],
+        "authoref": "",
+        "booktitle": "Saint-Watching"
+    },
+     
+     {
+        "content": "Humanity has an insatiable longing for good people to idolize. In them the ordinary man finds importance. His morality is aggrandized and made honorable. The knowledge that great persons have done great deeds of kindness vanquishes his despair at the meanness of his own life, charges his daily atmosphere with vicarious glory.",
+        "author": "Phyllis McGinley",
+        "tags": ["books"],
+        "authoref": "",
+        "booktitle": "Saint-Watching"
+    },
+     
+     {
+        "content": "Books are the most puissant weapons on earth, and we, in this word-ridden age, out to give thought to their power.",
+        "author": "Phyllis McGinley",
+        "tags": ["books"],
+        "authoref": "",
+        "booktitle": "Saint-Watching"
+    }
+   
 
 ]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

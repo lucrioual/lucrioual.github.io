@@ -23,23 +23,29 @@ body {
 
 .author, .authoref, .extractatt {
   display: inline-block;
+
 }
 
 .author {
   text-transform: uppercase;
   letter-spacing: .1em;
-  /*margin-left: 15px;*/
-  color: ;
+  cursor: pointer;
+
 }
 
 .authoref {
 	color: #9db1ff;
+	cursor: pointer;
+
 
 }
 
 .extractbox {
-	padding-bottom: 15px;
-	display: inline-block;
+    padding-bottom: 15;
+    display: inline-block;
+    border-bottom: dashed .5px;
+    margin-bottom: 15px;
+    border-bottom-color: darkslategrey;
 
 }
 
@@ -104,7 +110,7 @@ aside {
 
 .postcount {
 	padding-left: 0px;
-	color: #cb9801;
+	color: #ff9200;
 	display: inline;
 }
 
