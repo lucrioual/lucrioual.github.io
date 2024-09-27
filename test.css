@@ -162,7 +162,7 @@ a:hover, a:active{
 	}
 
 .pilcrow1 {
- color: blue;
+ color: lightgoldenrodyellow;
 }
 .pilcrow2 {
 	color: firebrick;
@@ -265,5 +265,40 @@ a:hover, a:active{
 		border-bottom-style: dashed;
 		padding-bottom: 15px;
 }*/
+
+/* commonplace */
+
+
+.tag {
+    color: blue;
+    cursor: pointer;
+    text-decoration: underline;
+}
+
+.commoncontent {
+	font-family: 'IBM Plex Sans';
+	font-size: 1em;
+
+}
+
+.author {
+  text-transform: uppercase;
+  font-style: italic;
+  letter-spacing: .1em;
+}
+
+.authoref {
+	color: forestgreen;
+}
+
+.extractbox {
+	padding-bottom: 10px;
+}
+
+
+
+
+
+
 
 
