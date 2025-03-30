@@ -220,16 +220,251 @@
         "authoref": "",
         "booktitle": "Saint-Watching"
     },
-     
+    
      {
         "content": "Books are the most puissant weapons on earth, and we, in this word-ridden age, out to give thought to their power.",
         "author": "Phyllis McGinley",
         "tags": ["books"],
         "authoref": "",
         "booktitle": "Saint-Watching"
-    }
-   
+    },
+    
+     {
+        "content": "I have done nothing but wish to speak&semi; if i have spoken, I have not said what I wished to say.",
+        "author": "Augustine",
+        "authoref": "",
+        "booktitle": "The Arts Without Mystery"
+    },
+    
+     {
+        "content": "A poem, a novel, or a painting is never what a society thinks it needs.",
+        "author": "Denis Donoghue",
+        "tags": ["books", "the arts"],
+        "authoref": "",
+        "booktitle": "The Arts Without Mystery"
+    },
+    
+     {
+        "content": "The trouble is that both politics and art are universalist in their ambition, each claims a total vision of life.",
+        "author": "Denis Donoghue",
+        "tags": ["books", "the arts"],
+        "authoref": "",
+        "booktitle": "The Arts Without Mystery"
+    },
+    
+     {
+        "content": "The plain fact is that bourgeois society can accomodate nearly anything.",
+        "author": "Denis Donoghue",
+        "tags": ["society"],
+        "authoref": "",
+        "booktitle": "The Arts Without Mystery"
+    },
+    
+     {
+        "content": "A linguistic system makes certain things possible, but it makes nothing actual. Nothing could ever be done if it were left to a system to do it.",
+        "author": "Denis Donoghue",
+        "tags": ["books","systems"],
+        "authoref": "",
+        "booktitle": "The Arts Without Mystery"
+    },
+    
+     {
+        "content": "We are all ready to assent to our bodily condition; any one of us might prefer to have a more beautiful body, but not to be bodiless.",
+        "author": "Denis Donoghue",
+        "tags": ["body"],
+        "authoref": "",
+        "booktitle": "The Arts Without Mystery"
+    },
+    
+     {
+        "content": ". . . one of the vices of democracy is that it tolerates mediocrity.",
+        "author": "Denis Donoghue",
+        "tags": ["society"],
+        "authoref": "",
+        "booktitle": "The Arts Without Mystery"
+    },
+    
+     {
+        "content": "The trouble with Barthes position was that it had conditions attached&colon; he had a particular idea of society in view and indeed a particular axe to grind. He merely answered one ideology with a manifesto for another. But art is not just hostile to our particular form of society&semi; it is neither left wing nor right wing. It's antagonistic not to reality but to any and every official knowledge of it. this antagonism should be maintained whether the official determination of society is bourgeois liberal, Marxist, aristocratic or Facist. That's why aesthetics must never degenerate into politics or psychology. both are reductive and play into the hands of a society which likes nothing better than to reduce the arts to the form of knowledge it already enforces.",
+        "author": "Denis Donoghue",
+        "tags": ["society"],
+        "authoref": "Roland Barthes",
+        "booktitle": "The Arts Without Mystery"
+    },
+    
+     {
+        "content": "The uselessness of art is its finest attributes, because it does not take part in the rigmarole of purposes and ends.",
+        "author": "Denis Donoghue",
+        "tags": ["the arts"],
+        "authoref": "Friedrich Nietzsche",
+        "booktitle": "The Arts Without Mystery"
+    },
+    
+     {
+        "content": "Moral freedom is the freedom to choose to act in one way rather than another&colon; aesthetic freedom is the freedom to postpone all such choices, and to remain in the enjoyment of one's general capacity.",
+        "author": "Denis Donoghue",
+        "authoref": "Friedrich Schiller",
+        "booktitle": "The Arts Without Mystery"
+    },
+    
+     {
+        "content": "The administration of the arts begins with the moment in which we give them their names.",
+        "author": "Denis Donoghue",
+        "tags": ["the arts"],
+        "authoref": "",
+        "booktitle": "The Arts Without Mystery"
+    },
+    
+     {
+        "content": "Of course this isn't a recent development&semi; it would be naive to think that the motives of the eighteenth-century Grub street were purrer than those to be discovered in the galleries of Madison Avenue. There is no point in warming ourselves with a pastoral vision, based upon nostalgia for agricultural communities and the charm of a wheelwright engaged in his craft. ",
+        "author": "Denis Donoghue",
+        "tags": ["the arts"],
+        "authoref": "",
+        "booktitle": "The Arts Without Mystery"
+    },
+    
+     {
+        "content": "Humanists like ot think that everything has a name, lest they have to conclude that some things or some events lie beyond our knowing.",
+        "author": "Denis Donoghue",
+        "tags": ["language"],
+        "authoref": "",
+        "booktitle": "The Arts Without Mystery"
+    },
+    
+     {
+        "content": "Empson's poem answers those critics, like F. R. Leavis, who denounced escapist poetry. Escapist poets were only talking to themselves, like infants. Empson says, against this, that talking to yourself isn't such a bad thing. Goodwill, even when it isn't directed to anyone in particular, is agreeable and positive.",
+        "author": "Denis Donoghue",
+        "authoref": "William Empson",
+        "booktitle": "The Arts Without Mystery"
+    },
+    
+     {
+        "content": "What I have called the managerial motive in language is, more desperately, the insistence of those who use it that there is nothing it cannot name. Poetic language refuts this observation by transgressing it.",
+        "author": "Denis Donoghue",
+        "tags": ["language"],
+        "authoref": "",
+        "booktitle": "The Arts Without Mystery"
+    },
+    
+     {
+        "content": "But in any case it is impossible to place words close to primary experience. Think of all the 'automatic writing,' which tries to use words in such a way as to forestall the intervention of mind or systematic thought. It is always ludicrous.",
+        "author": "Denis Donoghue",
+        "tags": ["language"],
+        "authoref": "",
+        "booktitle": "The Arts Without Mystery"
+    },
+    
+     {
+        "content": "I want discourse to allow for the sense in which the only adequate expression is poetry&semi; and the poetry is adequate only insofar as it beckons beyond itself. I refuse to regard that 'beyond as self-bewilderment or mystification.",
+        "author": "Denis Donoghue",
+        "tags": ["language", "poetry"],
+        "authoref": "",
+        "booktitle": "The Arts Without Mystery"
+    },
+    
+     {
+        "content": "More generally, there is no good reason to suppose that whatever can be felt can be expressed in words&semi; or indeed in any articulate form.",
+        "author": "Denis Donoghue",
+        "tags": ["language"],
+        "authoref": "",
+        "booktitle": "The Arts Without Mystery"
+    },
+    
+     {
+        "content": "What is common to poet and ordinary man is gibberish, a limping or splutteringn translation of a feeling or an intuition we have to think of as aboriginal or otherwise beneath or above our syntax. the poet's gibberish differs from the ordinary man's only as 'the imagination's latin' differs from&mdash;while still being continuous with&mdash'the lingua franca et jocundissima.'",
+        "author": "Denis Donoghue",
+        "tags": ["language", "poetry"],
+        "authoref": "",
+        "booktitle": "The Arts Without Mystery"
+    },
+    
+     {
+        "content": "An experience is aesthetic when the main quality of it is appreciation, not possessiveness.",
+        "author": "Denis Donoghue",
+        "tags": ["the arts"],
+        "authoref": "",
+        "booktitle": "The Arts Without Mystery"
+    },
+    
+     {
+        "content": "They are only interested in describing the system that makes hte production of meanings possible, what Barthes called the empty meaning that sustains all meanings. For such an interest, one work of art is just as good as another.",
+        "author": "Denis Donoghue",
+        "tags": ["the arts", "books"],
+        "authoref": "Roland Barthes",
+        "booktitle": "The Arts Without Mystery"
+    },
+    
+     {
+        "content": "This was unsettling, beecause part of an aesthetic experience is knowing that it is one, that the parentheses of form are in place. We have to know that we are dealing with imaginary objects, even while we're responding to them as if they were real.",
+        "author": "Denis Donoghue",
+        "tags": ["Duane Hanson"],
+        "authoref": "the arts",
+        "booktitle": "The Arts Without Mystery"
+    },
+    
+     {
+        "content": "It is easier to declare an object as imaginary than to feel an emotion as imaginary.",
+        "author": "Denis Donoghue",
+        "tags": ["the arts"],
+        "authoref": "",
+        "booktitle": "The Arts Without Mystery"
+    },
+    
+     {
+        "content": "Such moments are congenial because they tell against the idolatory of language to which we are all, in some of our moods, susceptible. Knowing that language has done so much, we want to believe that it can do everything.",
+        "author": "Denis Donoghue",
+        "tags": ["language"],
+        "authoref": "",
+        "booktitle": "The Arts Without Mystery"
+    },
+    
+     {
+        "content": "The proper sense of words is not in their particular claim to mean and to control the object of their attention&semi; it is to be apprehended, rather, from the relation between the words and the silence that surrounds them.",
+        "author": "Denis Donoghue",
+        "tags": ["language"],
+        "authoref": "",
+        "booktitle": "The Arts Without Mystery"
+    },
+    
+     {
+        "content": "It was depressing the way the same old things turned up every week. Just the kind of underclothes a person like me wear, I thought dejectedly, so there is no need to describe them.",
+        "author": "Barbara Pym",
+        "authoref": "",
+        "tags": ["fiction"],
+        "booktitle": "Excellent Women"
 
+    },
+    
+     {
+        "content": "I wondered that she should waste so much energy fighting over a little matter like wearing hats in chapel, but then i told myself that, after all, life was like that for most of us&mdash;the small unpleasantnesses rather than the great tragedies&semi; the little usesless longings rather than the great renunciations and dramatic love affairs of fiction.",
+        "author": "Barbara Pym",
+        "authoref": "",
+        "tags": ["fiction"],
+        "booktitle": "Excellent Women"
+    },
+    
+     {
+        "content": "'I suppose each sex finds the other difficult to understand,' I said, doing the best I could. 'But perhaps one shouldn't expect to know too much about other people.'",
+        "author": "Barbara Pym",
+        "authoref": "",
+        "booktitle": "Excellent Women"
+    },
+    
+     {
+        "content": "The effects of shock and grief are too well known to need description and I stood at the window for a long time. At last I did make a cup of tea but I could not eat anything. There seemed to be a great weight inside me and after sitting down for a while I thought I would go into the chuch and try to find a little consolation there.",
+        "author": "Barbara Pym",
+        "authoref": "",
+        "tags": ["fiction"],
+        "booktitle": "Excellent Women"
+    },
+    
+     {
+        "content": "A list of furniture is not a good beginning to a letter, though I dare say a clever person with a fantastic turn of mind could transform even a laundry list into a poem.",
+        "author": "Barbara Pym",
+        "tags": ["poetry"],
+        "authoref": "",
+        "booktitle": "Excellent Women"
+    }
 ]
 
 
