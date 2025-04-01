@@ -1,546 +1,1281 @@
 [
-    {
-        "content": "Whence then is it that we remain still barbarians?",
-        "author": "Friedrich Schiller",
-        "authoref": "",
-        "booktitle": "On the Aesthetic Education of Man"
-    },
-
-    {
-        "content": "For if we both of us, reader and writer, command our common language—and if not, why go on?—then we both know, potentially, whatever it can say, and shall neither of us gain anything if I raise my voice.",
-        "author": "Hugh Kenner",
-        "authoref": "Louis Zukofsky",
-        "booktitle": "Prepositions"
-    },
-    {
-        "content": "How much what is sounded by words has to do with what is seen by them—and how much is both sounded and seen by them crosscuts an interplay among themselves—will naturally sustain the scientific definition of poetry we are looking for.",
-        "author": "Louis Zukofsky",
-        "authoref": "",
-        "booktitle": "Prepositions"
-
-    },
-    {
-        "content": "Let the green grass nourish, with transmuted solar energies, whoso would browse.",
-        "author": "Hugh Kenner",
-        "authoref": "",
-        "booktitle": "The Pound Era"
-
-
-    },
-  
-       {
-        "content": "I beseech you, in the bowels of Christ, think it possible you may be mistaken.",
-        "author": "Oliver Cromwell",
-        "authoref": "",
-        "booktitle": ""
-
-    },
-   {
-        "content": "It is impossible for me to contradict myself—except logically which means nothing.",
-        "author": "William Carlos Williams",
-        "authoref": "Kenneth Burke",
-        "booktitle": "The Humane Particulars: The Collected Letters of William Carlos Williams and Kenneth Burke"
-
-    },
-
-    {
-        "content": "Irony, novelty, experimentalism, vaccilation, the cult of conflict&mdash;are not these men trying to make us at home in indecision, are they not trying to humanize the state of doubt?",
-        "author": "Kenneth Burke",
-        "authoref": "",
-        "booktitle": "Counter-Statement"
-    },
-
-    {
-        "content": "The great merit of words is that they kill time: their great limitation is that time thus killed is meaningness.",
-        "author": "Denis Donoghue",
-        "authoref": "",
-        "booktitle": "The Ordinary Universe"
-    },
-
-    {   "content": "Our involvement with the present gives us daily reasons for disquietude, even while it prompts us to idealize the past or to pin our hopes upon futurity. We live on the White Queen's regiment for Alice: &#x0022Jam today and jam tomorrow, but never jam today.&#x022",
-        "author": "Harry Levin",
-        "authoref": "",
-        "booktitle": "The Myth of the Golden Age in the Renaissance"
-    } ,
-
-    {   
-        "content": "My giant goes with me wherever I go.",
-        "author": "Ralph Waldo Emerson",
-        "authoref": "",
-        "booktitle": "Essays, First Series"
-    },
-
-    {   
-        "content": "Greedy travelers, Americans, hail the dawn of a new experience!",
-        "author": "Elizabeth Hardwick",
-        "authoref": "",
-        "booktitle": "Sleepless Nights"
-    },
-
-    {   
-        "content": "The torment of personal relations. Nothing new there except in the disguise, and in the escape on the wings.of adjectives. Sweet to be pierced by daggers at the end of paragraphs.",
-        "author": "Elizabeth Hardwick",
-        "authoref": "",
-        "booktitle": "Sleepless Nights"
-    },
-
-    {   
-        "content": "Anyone who singles out, by desire, some one man or woman as a singular valued object, creates by that act a fiction, an idealized image in which desire finds or thinkts to find, its satisfaction.",
-        "author": "Helen Vendler",
-        "authoref": "",
-        "booktitle": "Wallace Stevens, Words Chosen Out of Desire"
-    },
-
-    {   
-        "content": "Your manuscript, on which you lavish such care, has no needs or wishes; it knows you not. Nor does anyone need your manuscript; everyone needs shoes more. There are many manuscripts already—worthy ones, most edifying and moving ones, intelligent and powerful ones. If you believed <em>Paradise Lost</em> to be excellent, would you buy it? Why not shoot yourself, actually, rather than finish one more excellent manuscript on which to gag the world?",
-        "author": "Annie Dillard",
-        "authoref": "John Milton",
-        "booktitle": "The Writing Life"
-    },
-    {
-        "content": "Live with your age, but be not its creation; labour for your contemporaries, but do for them what they need, and not what they praise. Without having shared their faults, share their punishment with a noble resignation, and bend under the yoke which they find it as painful to dispense with as to bear.",
-        "author": "Friedrich Schiller",
-        "authoref": "",
-        "booktitle": "On the Aesthetic Education of Man"
-    },
-
-    {
-        "content": "There have been, among the saints, thieves, beggars, and vagabonds, even men who killed. that they turned the fury of their impulses toward good and toward God instead of toward the evil they knew perfectly well existed, is their accolade. It is the reason that spying on them is such a satisfying pursuit. Not much of the glory rubs off on the pursuer but then a bird-watcher does not expect to learn how to fly. His, like mine, is a spectator's delight.",
-        "author": "Phyllis McGinley",
-        "tags": ["saints"],
-        "authoref": "",
-        "booktitle": "Saint-Watching"
-    },
-     {
-        "content": "I love Francis Xavier because of many things&mdash;his zeal, his charity, his footsore journeys across the world to bring light to the pagan. But I cherish him chiefly because his nature was so affectionat ethat, thousands of miles away from home and his brother Jesuits, he cut the signatures fromtheir letters to him and pinned them inside his habit next to his heart.",
-        "author": "Phyllis McGinley",
-        "authoref": "",
-        "tags": ["saints"],
-        "booktitle": "Saint-Watching"
-    },
-     {
-        "content": "(She was also so holy that in her ecstasies of prayer, it is said, she was forced sometimes to hold on to the altar rail to keep herself from floating embarassingly upward.)",
-        "author": "Phyllis McGinley",
-        "tags": ["saints"],
-        "authoref": "St. Teresa of Avila",
-        "booktitle": "Saint-Watching"
-    },
-     {
-        "content": "A willingness to let others be comfortable while living austerely oneself seems to me the hight of generosity.",
-        "author": "Phyllis McGinley",
-        "tags": ["virtue"],
-        "authoref": "",
-        "booktitle": "Saint-Watching"
-    },
-     
-     {
-        "content": "I like to be told that a legendary Saint Gothard is supposed to have hung his cloak on a sunbeam when he could not find a hook, and that a genuine Nichols the Pilgrim was a shepherd who kept his sheep calm by singing them the &quot;<em>Kyrie Eleison</em>&quot;. I am fond of Sabrinus, who understood the language of birds, and preached to them by note; and of Datiius, who made fn of the Devil and vanquished him by mockery. It takes a saint to turn the devil's weapon against him so skillfully.",
-        "author": "Phyllis McGinley",
-        "tags": ["saints"],
-        "authoref": "",
-        "booktitle": "Saint-Watching"
-    },
-     
-     {
-        "content": "My pet among the prayerful is Blessed Mariolino, who spent so much time in soliciting God's mercy for sinners that after his death heavy calluses were found on both knees.",
-        "author": "Phyllis McGinley",
-        "tags": ["saints"],
-        "authoref": "",
-        "booktitle": "Saint-Watching"
-    },
-     
-     {
-        "content": "Ours is a carnal time, with every relationship suspect or explained away by psychiatry. It restores the spirit to learn that there can be freindships where nothing is asked and everything given; where innocence flourishes as if there had never been a Fall.",
-        "author": "Phyllis McGinley",
-        "tags": ["virtue", "saints"],
-        "authoref": "",
-        "booktitle": "Saint-Watching"
-    },
-     
-     {
-        "content": "The habit of kindness thrives on practice.",
-        "author": "Phyllis McGinley",
-        "tags": ["virtue"],
-        "authoref": "",
-        "booktitle": "Saint-Watching"
-    },
-     
-     {
-        "content": "&quot;You are accused of teaching novelities,&quot; said the Father. &quot;What have you to say for yourself?&quot; &quot;My Lord,&quot; answer Ignatius smoothly, &quot;I should not have though tit had been any novelty to speak of Christ to Christians.&quot;",
-        "author": "Phyllis McGinley",
-        "tags": ["saints"],
-        "authoref": "St. Ignatius",
-        "booktitle": "Saint-Watching"
-    },
-     
-     {
-        "content": "One Day Luther lost patience with Melanchthon's virtuous reserve. &quot;For heaven's sake,&quot; he roared, &quot;why don't you go out and sin a little? God deserves sto have something to forgive you for!&quot;",
-        "author": "Phyllis McGinley",
-        "tags": ["saints", "virtue"],
-        "authoref": "Martin Luther",
-        "booktitle": "Saint-Watching"
-    },
-     
-     {
-        "content": "Simeon, by our standards, was a lunatic. &quot;Even the Desert Fathers,&quot; says one historian, &quot;were distugsted by his personal habits.&quot;",
-        "author": "Phyllis McGinley",
-        "tags": ["saints"],
-        "authoref": "Saint Simeon",
-        "booktitle": "Saint-Watching"
-    },
-     
-     {
-        "content": "In those spectacle-starved days people went to stare at hermits as they might now come to Disneyland.",
-        "author": "Phyllis McGinley",
-        "tags": ["saints"],
-        "authoref": "Saint Simeon",
-        "booktitle": "Saint-Watching"
-    },
-     
-     {
-        "content": "Chaos was Augustine's inheritance.",
-        "author": "Phyllis McGinley",
-        "tags": ["saints"],
-        "authoref": "Augustine",
-        "booktitle": "Saint-Watching"
-    },
-     
-     {
-        "content": "Books are the most puissant weapons on earth, and we, in this word-ridden age, out to give thought to their power.",
-        "author": "Phyllis McGinley",
-        "tags": ["books"],
-        "authoref": "",
-        "booktitle": "Saint-Watching"
-    },
-     
-     {
-        "content": "Humanity has an insatiable longing for good people to idolize. In them the ordinary man finds importance. His morality is aggrandized and made honorable. The knowledge that great persons have done great deeds of kindness vanquishes his despair at the meanness of his own life, charges his daily atmosphere with vicarious glory.",
-        "author": "Phyllis McGinley",
-        "tags": ["books"],
-        "authoref": "",
-        "booktitle": "Saint-Watching"
-    },
-    
-     {
-        "content": "Books are the most puissant weapons on earth, and we, in this word-ridden age, out to give thought to their power.",
-        "author": "Phyllis McGinley",
-        "tags": ["books"],
-        "authoref": "",
-        "booktitle": "Saint-Watching"
-    },
-    
-     {
-        "content": "I have done nothing but wish to speak&semi; if i have spoken, I have not said what I wished to say.",
-        "author": "Augustine",
-        "authoref": "",
-        "booktitle": "The Arts Without Mystery"
-    },
-    
-     {
-        "content": "A poem, a novel, or a painting is never what a society thinks it needs.",
-        "author": "Denis Donoghue",
-        "tags": ["books", "the arts"],
-        "authoref": "",
-        "booktitle": "The Arts Without Mystery"
-    },
-    
-     {
-        "content": "The trouble is that both politics and art are universalist in their ambition, each claims a total vision of life.",
-        "author": "Denis Donoghue",
-        "tags": ["books", "the arts"],
-        "authoref": "",
-        "booktitle": "The Arts Without Mystery"
-    },
-    
-     {
-        "content": "The plain fact is that bourgeois society can accomodate nearly anything.",
-        "author": "Denis Donoghue",
-        "tags": ["society"],
-        "authoref": "",
-        "booktitle": "The Arts Without Mystery"
-    },
-    
-     {
-        "content": "A linguistic system makes certain things possible, but it makes nothing actual. Nothing could ever be done if it were left to a system to do it.",
-        "author": "Denis Donoghue",
-        "tags": ["books","systems"],
-        "authoref": "",
-        "booktitle": "The Arts Without Mystery"
-    },
-    
-     {
-        "content": "We are all ready to assent to our bodily condition; any one of us might prefer to have a more beautiful body, but not to be bodiless.",
-        "author": "Denis Donoghue",
-        "tags": ["body"],
-        "authoref": "",
-        "booktitle": "The Arts Without Mystery"
-    },
-    
-     {
-        "content": ". . . one of the vices of democracy is that it tolerates mediocrity.",
-        "author": "Denis Donoghue",
-        "tags": ["society"],
-        "authoref": "",
-        "booktitle": "The Arts Without Mystery"
-    },
-    
-     {
-        "content": "The trouble with Barthes position was that it had conditions attached&colon; he had a particular idea of society in view and indeed a particular axe to grind. He merely answered one ideology with a manifesto for another. But art is not just hostile to our particular form of society&semi; it is neither left wing nor right wing. It's antagonistic not to reality but to any and every official knowledge of it. this antagonism should be maintained whether the official determination of society is bourgeois liberal, Marxist, aristocratic or Facist. That's why aesthetics must never degenerate into politics or psychology. both are reductive and play into the hands of a society which likes nothing better than to reduce the arts to the form of knowledge it already enforces.",
-        "author": "Denis Donoghue",
-        "tags": ["society"],
-        "authoref": "Roland Barthes",
-        "booktitle": "The Arts Without Mystery"
-    },
-    
-     {
-        "content": "The uselessness of art is its finest attributes, because it does not take part in the rigmarole of purposes and ends.",
-        "author": "Denis Donoghue",
-        "tags": ["the arts"],
-        "authoref": "Friedrich Nietzsche",
-        "booktitle": "The Arts Without Mystery"
-    },
-    
-     {
-        "content": "Moral freedom is the freedom to choose to act in one way rather than another&colon; aesthetic freedom is the freedom to postpone all such choices, and to remain in the enjoyment of one's general capacity.",
-        "author": "Denis Donoghue",
-        "authoref": "Friedrich Schiller",
-        "booktitle": "The Arts Without Mystery"
-    },
-    
-     {
-        "content": "The administration of the arts begins with the moment in which we give them their names.",
-        "author": "Denis Donoghue",
-        "tags": ["the arts"],
-        "authoref": "",
-        "booktitle": "The Arts Without Mystery"
-    },
-    
-     {
-        "content": "Of course this isn't a recent development&semi; it would be naive to think that the motives of the eighteenth-century Grub street were purrer than those to be discovered in the galleries of Madison Avenue. There is no point in warming ourselves with a pastoral vision, based upon nostalgia for agricultural communities and the charm of a wheelwright engaged in his craft. ",
-        "author": "Denis Donoghue",
-        "tags": ["the arts"],
-        "authoref": "",
-        "booktitle": "The Arts Without Mystery"
-    },
-    
-     {
-        "content": "Humanists like ot think that everything has a name, lest they have to conclude that some things or some events lie beyond our knowing.",
-        "author": "Denis Donoghue",
-        "tags": ["language"],
-        "authoref": "",
-        "booktitle": "The Arts Without Mystery"
-    },
-    
-     {
-        "content": "Empson's poem answers those critics, like F. R. Leavis, who denounced escapist poetry. Escapist poets were only talking to themselves, like infants. Empson says, against this, that talking to yourself isn't such a bad thing. Goodwill, even when it isn't directed to anyone in particular, is agreeable and positive.",
-        "author": "Denis Donoghue",
-        "authoref": "William Empson",
-        "booktitle": "The Arts Without Mystery"
-    },
-    
-     {
-        "content": "What I have called the managerial motive in language is, more desperately, the insistence of those who use it that there is nothing it cannot name. Poetic language refuts this observation by transgressing it.",
-        "author": "Denis Donoghue",
-        "tags": ["language"],
-        "authoref": "",
-        "booktitle": "The Arts Without Mystery"
-    },
-    
-     {
-        "content": "But in any case it is impossible to place words close to primary experience. Think of all the 'automatic writing,' which tries to use words in such a way as to forestall the intervention of mind or systematic thought. It is always ludicrous.",
-        "author": "Denis Donoghue",
-        "tags": ["language"],
-        "authoref": "",
-        "booktitle": "The Arts Without Mystery"
-    },
-    
-     {
-        "content": "I want discourse to allow for the sense in which the only adequate expression is poetry&semi; and the poetry is adequate only insofar as it beckons beyond itself. I refuse to regard that 'beyond as self-bewilderment or mystification.",
-        "author": "Denis Donoghue",
-        "tags": ["language", "poetry"],
-        "authoref": "",
-        "booktitle": "The Arts Without Mystery"
-    },
-    
-     {
-        "content": "More generally, there is no good reason to suppose that whatever can be felt can be expressed in words&semi; or indeed in any articulate form.",
-        "author": "Denis Donoghue",
-        "tags": ["language"],
-        "authoref": "",
-        "booktitle": "The Arts Without Mystery"
-    },
-    
-     {
-        "content": "What is common to poet and ordinary man is gibberish, a limping or splutteringn translation of a feeling or an intuition we have to think of as aboriginal or otherwise beneath or above our syntax. the poet's gibberish differs from the ordinary man's only as 'the imagination's latin' differs from&mdash;while still being continuous with&mdash'the lingua franca et jocundissima.'",
-        "author": "Denis Donoghue",
-        "tags": ["language", "poetry"],
-        "authoref": "",
-        "booktitle": "The Arts Without Mystery"
-    },
-    
-     {
-        "content": "An experience is aesthetic when the main quality of it is appreciation, not possessiveness.",
-        "author": "Denis Donoghue",
-        "tags": ["the arts"],
-        "authoref": "",
-        "booktitle": "The Arts Without Mystery"
-    },
-    
-     {
-        "content": "They are only interested in describing the system that makes hte production of meanings possible, what Barthes called the empty meaning that sustains all meanings. For such an interest, one work of art is just as good as another.",
-        "author": "Denis Donoghue",
-        "tags": ["the arts", "books"],
-        "authoref": "Roland Barthes",
-        "booktitle": "The Arts Without Mystery"
-    },
-    
-     {
-        "content": "This was unsettling, beecause part of an aesthetic experience is knowing that it is one, that the parentheses of form are in place. We have to know that we are dealing with imaginary objects, even while we're responding to them as if they were real.",
-        "author": "Denis Donoghue",
-        "tags": ["Duane Hanson"],
-        "authoref": "the arts",
-        "booktitle": "The Arts Without Mystery"
-    },
-    
-     {
-        "content": "It is easier to declare an object as imaginary than to feel an emotion as imaginary.",
-        "author": "Denis Donoghue",
-        "tags": ["the arts"],
-        "authoref": "",
-        "booktitle": "The Arts Without Mystery"
-    },
-    
-     {
-        "content": "Such moments are congenial because they tell against the idolatory of language to which we are all, in some of our moods, susceptible. Knowing that language has done so much, we want to believe that it can do everything.",
-        "author": "Denis Donoghue",
-        "tags": ["language"],
-        "authoref": "",
-        "booktitle": "The Arts Without Mystery"
-    },
-    
-     {
-        "content": "The proper sense of words is not in their particular claim to mean and to control the object of their attention&semi; it is to be apprehended, rather, from the relation between the words and the silence that surrounds them.",
-        "author": "Denis Donoghue",
-        "tags": ["language"],
-        "authoref": "",
-        "booktitle": "The Arts Without Mystery"
-    },
-    
-     {
-        "content": "It was depressing the way the same old things turned up every week. Just the kind of underclothes a person like me wear, I thought dejectedly, so there is no need to describe them.",
-        "author": "Barbara Pym",
-        "authoref": "",
-        "tags": ["fiction"],
-        "booktitle": "Excellent Women"
-
-    },
-    
-     {
-        "content": "I wondered that she should waste so much energy fighting over a little matter like wearing hats in chapel, but then i told myself that, after all, life was like that for most of us&mdash;the small unpleasantnesses rather than the great tragedies&semi; the little usesless longings rather than the great renunciations and dramatic love affairs of fiction.",
-        "author": "Barbara Pym",
-        "authoref": "",
-        "tags": ["fiction"],
-        "booktitle": "Excellent Women"
-    },
-    
-     {
-        "content": "'I suppose each sex finds the other difficult to understand,' I said, doing the best I could. 'But perhaps one shouldn't expect to know too much about other people.'",
-        "author": "Barbara Pym",
-        "authoref": "",
-        "booktitle": "Excellent Women"
-    },
-    
-     {
-        "content": "The effects of shock and grief are too well known to need description and I stood at the window for a long time. At last I did make a cup of tea but I could not eat anything. There seemed to be a great weight inside me and after sitting down for a while I thought I would go into the chuch and try to find a little consolation there.",
-        "author": "Barbara Pym",
-        "authoref": "",
-        "tags": ["fiction"],
-        "booktitle": "Excellent Women"
-    },
-    
-     {
-        "content": "A list of furniture is not a good beginning to a letter, though I dare say a clever person with a fantastic turn of mind could transform even a laundry list into a poem.",
-        "author": "Barbara Pym",
-        "tags": ["poetry"],
-        "authoref": "",
-        "booktitle": "Excellent Women"
-    }
+  {
+    "content": "Whence then is it that we remain still barbarians?",
+    "author": "Friedrich Schiller",
+    "authoref": "",
+    "booktitle": "On the Aesthetic Education of Man"
+  },
+  {
+    "content": "For if we both of us, reader and writer, command our common language—and if not, why go on?—then we both know, potentially, whatever it can say, and shall neither of us gain anything if I raise my voice.",
+    "author": "Hugh Kenner",
+    "authoref": "Louis Zukofsky",
+    "booktitle": "Prepositions"
+  },
+  {
+    "content": "How much what is sounded by words has to do with what is seen by them—and how much is both sounded and seen by them crosscuts an interplay among themselves—will naturally sustain the scientific definition of poetry we are looking for.",
+    "author": "Louis Zukofsky",
+    "authoref": "",
+    "booktitle": "Prepositions"
+  },
+  {
+    "content": "Let the green grass nourish, with transmuted solar energies, whoso would browse.",
+    "author": "Hugh Kenner",
+    "authoref": "",
+    "booktitle": "The Pound Era"
+  },
+  {
+    "content": "I beseech you, in the bowels of Christ, think it possible you may be mistaken.",
+    "author": "Oliver Cromwell",
+    "authoref": "",
+    "booktitle": ""
+  },
+  {
+    "content": "It is impossible for me to contradict myself—except logically which means nothing.",
+    "author": "William Carlos Williams",
+    "authoref": "Kenneth Burke",
+    "booktitle": "The Humane Particulars: The Collected Letters of William Carlos Williams and Kenneth Burke"
+  },
+  {
+    "content": "Irony, novelty, experimentalism, vaccilation, the cult of conflict&mdash;are not these men trying to make us at home in indecision, are they not trying to humanize the state of doubt?",
+    "author": "Kenneth Burke",
+    "authoref": "",
+    "booktitle": "Counter-Statement"
+  },
+  {
+    "content": "The great merit of words is that they kill time: their great limitation is that time thus killed is meaningless.",
+    "author": "Denis Donoghue",
+    "authoref": "",
+    "booktitle": "The Ordinary Universe"
+  },
+  {
+    "content": "Our involvement with the present gives us daily reasons for disquietude, even while it prompts us to idealize the past or to pin our hopes upon futurity. We live on the White Queen's regiment for Alice: &#x0022Jam today and jam tomorrow, but never jam today.&#x022",
+    "author": "Harry Levin",
+    "authoref": "",
+    "booktitle": "The Myth of the Golden Age in the Renaissance"
+  },
+  {
+    "content": "My giant goes with me wherever I go.",
+    "author": "Ralph Waldo Emerson",
+    "authoref": "",
+    "booktitle": "Essays, First Series"
+  },
+  {
+    "content": "Greedy travelers, Americans, hail the dawn of a new experience!",
+    "author": "Elizabeth Hardwick",
+    "authoref": "",
+    "booktitle": "Sleepless Nights"
+  },
+  {
+    "content": "The torment of personal relations. Nothing new there except in the disguise, and in the escape on the wings.of adjectives. Sweet to be pierced by daggers at the end of paragraphs.",
+    "author": "Elizabeth Hardwick",
+    "authoref": "",
+    "booktitle": "Sleepless Nights"
+  },
+  {
+    "content": "Anyone who singles out, by desire, some one man or woman as a singular valued object, creates by that act a fiction, an idealized image in which desire finds or thinkts to find, its satisfaction.",
+    "author": "Helen Vendler",
+    "authoref": "",
+    "booktitle": "Wallace Stevens, Words Chosen Out of Desire"
+  },
+  {
+    "content": "Your manuscript, on which you lavish such care, has no needs or wishes; it knows you not. Nor does anyone need your manuscript; everyone needs shoes more. There are many manuscripts already—worthy ones, most edifying and moving ones, intelligent and powerful ones. If you believed <em>Paradise Lost</em> to be excellent, would you buy it? Why not shoot yourself, actually, rather than finish one more excellent manuscript on which to gag the world?",
+    "author": "Annie Dillard",
+    "authoref": "John Milton",
+    "booktitle": "The Writing Life"
+  },
+  {
+    "content": "Live with your age, but be not its creation; labour for your contemporaries, but do for them what they need, and not what they praise. Without having shared their faults, share their punishment with a noble resignation, and bend under the yoke which they find it as painful to dispense with as to bear.",
+    "author": "Friedrich Schiller",
+    "authoref": "",
+    "booktitle": "On the Aesthetic Education of Man"
+  },
+  {
+    "content": "There have been, among the saints, thieves, beggars, and vagabonds, even men who killed. that they turned the fury of their impulses toward good and toward God instead of toward the evil they knew perfectly well existed, is their accolade. It is the reason that spying on them is such a satisfying pursuit. Not much of the glory rubs off on the pursuer but then a bird-watcher does not expect to learn how to fly. His, like mine, is a spectator's delight.",
+    "author": "Phyllis McGinley",
+    "tags": [
+      "saints"
+    ],
+    "authoref": "",
+    "booktitle": "Saint-Watching"
+  },
+  {
+    "content": "I love Francis Xavier because of many things&mdash;his zeal, his charity, his footsore journeys across the world to bring light to the pagan. But I cherish him chiefly because his nature was so affectionat ethat, thousands of miles away from home and his brother Jesuits, he cut the signatures fromtheir letters to him and pinned them inside his habit next to his heart.",
+    "author": "Phyllis McGinley",
+    "authoref": "",
+    "tags": [
+      "saints"
+    ],
+    "booktitle": "Saint-Watching"
+  },
+  {
+    "content": "(She was also so holy that in her ecstasies of prayer, it is said, she was forced sometimes to hold on to the altar rail to keep herself from floating embarassingly upward.)",
+    "author": "Phyllis McGinley",
+    "tags": [
+      "saints"
+    ],
+    "authoref": "St. Teresa of Avila",
+    "booktitle": "Saint-Watching"
+  },
+  {
+    "content": "A willingness to let others be comfortable while living austerely oneself seems to me the hight of generosity.",
+    "author": "Phyllis McGinley",
+    "tags": [
+      "virtue"
+    ],
+    "authoref": "",
+    "booktitle": "Saint-Watching"
+  },
+  {
+    "content": "I like to be told that a legendary Saint Gothard is supposed to have hung his cloak on a sunbeam when he could not find a hook, and that a genuine Nichols the Pilgrim was a shepherd who kept his sheep calm by singing them the &quot;<em>Kyrie Eleison</em>&quot;. I am fond of Sabrinus, who understood the language of birds, and preached to them by note; and of Datiius, who made fn of the Devil and vanquished him by mockery. It takes a saint to turn the devil's weapon against him so skillfully.",
+    "author": "Phyllis McGinley",
+    "tags": [
+      "saints"
+    ],
+    "authoref": "",
+    "booktitle": "Saint-Watching"
+  },
+  {
+    "content": "My pet among the prayerful is Blessed Mariolino, who spent so much time in soliciting God's mercy for sinners that after his death heavy calluses were found on both knees.",
+    "author": "Phyllis McGinley",
+    "tags": [
+      "saints"
+    ],
+    "authoref": "",
+    "booktitle": "Saint-Watching"
+  },
+  {
+    "content": "Ours is a carnal time, with every relationship suspect or explained away by psychiatry. It restores the spirit to learn that there can be freindships where nothing is asked and everything given; where innocence flourishes as if there had never been a Fall.",
+    "author": "Phyllis McGinley",
+    "tags": [
+      "virtue",
+      "saints"
+    ],
+    "authoref": "",
+    "booktitle": "Saint-Watching"
+  },
+  {
+    "content": "The habit of kindness thrives on practice.",
+    "author": "Phyllis McGinley",
+    "tags": [
+      "virtue"
+    ],
+    "authoref": "",
+    "booktitle": "Saint-Watching"
+  },
+  {
+    "content": "&quot;You are accused of teaching novelities,&quot; said the Father. &quot;What have you to say for yourself?&quot; &quot;My Lord,&quot; answer Ignatius smoothly, &quot;I should not have though tit had been any novelty to speak of Christ to Christians.&quot;",
+    "author": "Phyllis McGinley",
+    "tags": [
+      "saints"
+    ],
+    "authoref": "St. Ignatius",
+    "booktitle": "Saint-Watching"
+  },
+  {
+    "content": "One Day Luther lost patience with Melanchthon's virtuous reserve. &quot;For heaven's sake,&quot; he roared, &quot;why don't you go out and sin a little? God deserves sto have something to forgive you for!&quot;",
+    "author": "Phyllis McGinley",
+    "tags": [
+      "saints",
+      "virtue"
+    ],
+    "authoref": "Martin Luther",
+    "booktitle": "Saint-Watching"
+  },
+  {
+    "content": "Simeon, by our standards, was a lunatic. &quot;Even the Desert Fathers,&quot; says one historian, &quot;were distugsted by his personal habits.&quot;",
+    "author": "Phyllis McGinley",
+    "tags": [
+      "saints"
+    ],
+    "authoref": "Saint Simeon",
+    "booktitle": "Saint-Watching"
+  },
+  {
+    "content": "In those spectacle-starved days people went to stare at hermits as they might now come to Disneyland.",
+    "author": "Phyllis McGinley",
+    "tags": [
+      "saints"
+    ],
+    "authoref": "Saint Simeon",
+    "booktitle": "Saint-Watching"
+  },
+  {
+    "content": "Chaos was Augustine's inheritance.",
+    "author": "Phyllis McGinley",
+    "tags": [
+      "saints"
+    ],
+    "authoref": "Augustine",
+    "booktitle": "Saint-Watching"
+  },
+  {
+    "content": "Books are the most puissant weapons on earth, and we, in this word-ridden age, out to give thought to their power.",
+    "author": "Phyllis McGinley",
+    "tags": [
+      "books"
+    ],
+    "authoref": "",
+    "booktitle": "Saint-Watching"
+  },
+  {
+    "content": "Humanity has an insatiable longing for good people to idolize. In them the ordinary man finds importance. His morality is aggrandized and made honorable. The knowledge that great persons have done great deeds of kindness vanquishes his despair at the meanness of his own life, charges his daily atmosphere with vicarious glory.",
+    "author": "Phyllis McGinley",
+    "tags": [
+      "books"
+    ],
+    "authoref": "",
+    "booktitle": "Saint-Watching"
+  },
+  {
+    "content": "Books are the most puissant weapons on earth, and we, in this word-ridden age, out to give thought to their power.",
+    "author": "Phyllis McGinley",
+    "tags": [
+      "books"
+    ],
+    "authoref": "",
+    "booktitle": "Saint-Watching"
+  },
+  {
+    "content": "I have done nothing but wish to speak&semi; if i have spoken, I have not said what I wished to say.",
+    "author": "Augustine",
+    "authoref": "",
+    "booktitle": "The Arts Without Mystery"
+  },
+  {
+    "content": "A poem, a novel, or a painting is never what a society thinks it needs.",
+    "author": "Denis Donoghue",
+    "tags": [
+      "books",
+      "the arts"
+    ],
+    "authoref": "",
+    "booktitle": "The Arts Without Mystery"
+  },
+  {
+    "content": "The trouble is that both politics and art are universalist in their ambition, each claims a total vision of life.",
+    "author": "Denis Donoghue",
+    "tags": [
+      "books",
+      "the arts"
+    ],
+    "authoref": "",
+    "booktitle": "The Arts Without Mystery"
+  },
+  {
+    "content": "The plain fact is that bourgeois society can accomodate nearly anything.",
+    "author": "Denis Donoghue",
+    "tags": [
+      "society"
+    ],
+    "authoref": "",
+    "booktitle": "The Arts Without Mystery"
+  },
+  {
+    "content": "A linguistic system makes certain things possible, but it makes nothing actual. Nothing could ever be done if it were left to a system to do it.",
+    "author": "Denis Donoghue",
+    "tags": [
+      "books",
+      "systems"
+    ],
+    "authoref": "",
+    "booktitle": "The Arts Without Mystery"
+  },
+  {
+    "content": "We are all ready to assent to our bodily condition; any one of us might prefer to have a more beautiful body, but not to be bodiless.",
+    "author": "Denis Donoghue",
+    "tags": [
+      "body"
+    ],
+    "authoref": "",
+    "booktitle": "The Arts Without Mystery"
+  },
+  {
+    "content": ". . . one of the vices of democracy is that it tolerates mediocrity.",
+    "author": "Denis Donoghue",
+    "tags": [
+      "society"
+    ],
+    "authoref": "",
+    "booktitle": "The Arts Without Mystery"
+  },
+  {
+    "content": "The trouble with Barthes position was that it had conditions attached&colon; he had a particular idea of society in view and indeed a particular axe to grind. He merely answered one ideology with a manifesto for another. But art is not just hostile to our particular form of society&semi; it is neither left wing nor right wing. It's antagonistic not to reality but to any and every official knowledge of it. this antagonism should be maintained whether the official determination of society is bourgeois liberal, Marxist, aristocratic or Facist. That's why aesthetics must never degenerate into politics or psychology. both are reductive and play into the hands of a society which likes nothing better than to reduce the arts to the form of knowledge it already enforces.",
+    "author": "Denis Donoghue",
+    "tags": [
+      "society"
+    ],
+    "authoref": "Roland Barthes",
+    "booktitle": "The Arts Without Mystery"
+  },
+  {
+    "content": "The uselessness of art is its finest attributes, because it does not take part in the rigmarole of purposes and ends.",
+    "author": "Denis Donoghue",
+    "tags": [
+      "the arts"
+    ],
+    "authoref": "Friedrich Nietzsche",
+    "booktitle": "The Arts Without Mystery"
+  },
+  {
+    "content": "Moral freedom is the freedom to choose to act in one way rather than another&colon; aesthetic freedom is the freedom to postpone all such choices, and to remain in the enjoyment of one's general capacity.",
+    "author": "Denis Donoghue",
+    "authoref": "Friedrich Schiller",
+    "booktitle": "The Arts Without Mystery"
+  },
+  {
+    "content": "The administration of the arts begins with the moment in which we give them their names.",
+    "author": "Denis Donoghue",
+    "tags": [
+      "the arts"
+    ],
+    "authoref": "",
+    "booktitle": "The Arts Without Mystery"
+  },
+  {
+    "content": "Of course this isn't a recent development&semi; it would be naive to think that the motives of the eighteenth-century Grub street were purrer than those to be discovered in the galleries of Madison Avenue. There is no point in warming ourselves with a pastoral vision, based upon nostalgia for agricultural communities and the charm of a wheelwright engaged in his craft. ",
+    "author": "Denis Donoghue",
+    "tags": [
+      "the arts"
+    ],
+    "authoref": "",
+    "booktitle": "The Arts Without Mystery"
+  },
+  {
+    "content": "Humanists like ot think that everything has a name, lest they have to conclude that some things or some events lie beyond our knowing.",
+    "author": "Denis Donoghue",
+    "tags": [
+      "language"
+    ],
+    "authoref": "",
+    "booktitle": "The Arts Without Mystery"
+  },
+  {
+    "content": "Empson's poem answers those critics, like F. R. Leavis, who denounced escapist poetry. Escapist poets were only talking to themselves, like infants. Empson says, against this, that talking to yourself isn't such a bad thing. Goodwill, even when it isn't directed to anyone in particular, is agreeable and positive.",
+    "author": "Denis Donoghue",
+    "authoref": "William Empson",
+    "booktitle": "The Arts Without Mystery"
+  },
+  {
+    "content": "What I have called the managerial motive in language is, more desperately, the insistence of those who use it that there is nothing it cannot name. Poetic language refuts this observation by transgressing it.",
+    "author": "Denis Donoghue",
+    "tags": [
+      "language"
+    ],
+    "authoref": "",
+    "booktitle": "The Arts Without Mystery"
+  },
+  {
+    "content": "But in any case it is impossible to place words close to primary experience. Think of all the 'automatic writing,' which tries to use words in such a way as to forestall the intervention of mind or systematic thought. It is always ludicrous.",
+    "author": "Denis Donoghue",
+    "tags": [
+      "language"
+    ],
+    "authoref": "",
+    "booktitle": "The Arts Without Mystery"
+  },
+  {
+    "content": "I want discourse to allow for the sense in which the only adequate expression is poetry&semi; and the poetry is adequate only insofar as it beckons beyond itself. I refuse to regard that 'beyond as self-bewilderment or mystification.",
+    "author": "Denis Donoghue",
+    "tags": [
+      "language",
+      "poetry"
+    ],
+    "authoref": "",
+    "booktitle": "The Arts Without Mystery"
+  },
+  {
+    "content": "More generally, there is no good reason to suppose that whatever can be felt can be expressed in words&semi; or indeed in any articulate form.",
+    "author": "Denis Donoghue",
+    "tags": [
+      "language"
+    ],
+    "authoref": "",
+    "booktitle": "The Arts Without Mystery"
+  },
+  {
+    "content": "What is common to poet and ordinary man is gibberish, a limping or splutteringn translation of a feeling or an intuition we have to think of as aboriginal or otherwise beneath or above our syntax. the poet's gibberish differs from the ordinary man's only as 'the imagination's latin' differs from&mdash;while still being continuous with&mdash'the lingua franca et jocundissima.'",
+    "author": "Denis Donoghue",
+    "tags": [
+      "language",
+      "poetry"
+    ],
+    "authoref": "",
+    "booktitle": "The Arts Without Mystery"
+  },
+  {
+    "content": "An experience is aesthetic when the main quality of it is appreciation, not possessiveness.",
+    "author": "Denis Donoghue",
+    "tags": [
+      "the arts"
+    ],
+    "authoref": "",
+    "booktitle": "The Arts Without Mystery"
+  },
+  {
+    "content": "They are only interested in describing the system that makes hte production of meanings possible, what Barthes called the empty meaning that sustains all meanings. For such an interest, one work of art is just as good as another.",
+    "author": "Denis Donoghue",
+    "tags": [
+      "the arts",
+      "books"
+    ],
+    "authoref": "Roland Barthes",
+    "booktitle": "The Arts Without Mystery"
+  },
+  {
+    "content": "This was unsettling, beecause part of an aesthetic experience is knowing that it is one, that the parentheses of form are in place. We have to know that we are dealing with imaginary objects, even while we're responding to them as if they were real.",
+    "author": "Denis Donoghue",
+    "tags": [
+      "the arts"
+    ],
+    "authoref": "Duane Hanson",
+    "booktitle": "The Arts Without Mystery"
+  },
+  {
+    "content": "It is easier to declare an object as imaginary than to feel an emotion as imaginary.",
+    "author": "Denis Donoghue",
+    "tags": [
+      "the arts"
+    ],
+    "authoref": "",
+    "booktitle": "The Arts Without Mystery"
+  },
+  {
+    "content": "Such moments are congenial because they tell against the idolatory of language to which we are all, in some of our moods, susceptible. Knowing that language has done so much, we want to believe that it can do everything.",
+    "author": "Denis Donoghue",
+    "tags": [
+      "language"
+    ],
+    "authoref": "",
+    "booktitle": "The Arts Without Mystery"
+  },
+  {
+    "content": "The proper sense of words is not in their particular claim to mean and to control the object of their attention&semi; it is to be apprehended, rather, from the relation between the words and the silence that surrounds them.",
+    "author": "Denis Donoghue",
+    "tags": [
+      "language"
+    ],
+    "authoref": "",
+    "booktitle": "The Arts Without Mystery"
+  },
+  {
+    "content": "It was depressing the way the same old things turned up every week. Just the kind of underclothes a person like me wear, I thought dejectedly, so there is no need to describe them.",
+    "author": "Barbara Pym",
+    "authoref": "",
+    "tags": [
+      "fiction"
+    ],
+    "booktitle": "Excellent Women"
+  },
+  {
+    "content": "I wondered that she should waste so much energy fighting over a little matter like wearing hats in chapel, but then i told myself that, after all, life was like that for most of us&mdash;the small unpleasantnesses rather than the great tragedies&semi; the little usesless longings rather than the great renunciations and dramatic love affairs of fiction.",
+    "author": "Barbara Pym",
+    "authoref": "",
+    "tags": [
+      "fiction"
+    ],
+    "booktitle": "Excellent Women"
+  },
+  {
+    "content": "'I suppose each sex finds the other difficult to understand,' I said, doing the best I could. 'But perhaps one shouldn't expect to know too much about other people.'",
+    "author": "Barbara Pym",
+    "authoref": "",
+    "booktitle": "Excellent Women"
+  },
+  {
+    "content": "The effects of shock and grief are too well known to need description and I stood at the window for a long time. At last I did make a cup of tea but I could not eat anything. There seemed to be a great weight inside me and after sitting down for a while I thought I would go into the chuch and try to find a little consolation there.",
+    "author": "Barbara Pym",
+    "authoref": "",
+    "tags": [
+      "fiction"
+    ],
+    "booktitle": "Excellent Women"
+  },
+  {
+    "content": "A list of furniture is not a good beginning to a letter, though I dare say a clever person with a fantastic turn of mind could transform even a laundry list into a poem.",
+    "author": "Barbara Pym",
+    "tags": [
+      "poetry"
+    ],
+    "authoref": "",
+    "booktitle": "Excellent Women"
+  },
+  {
+    "postId": "1743315857536",
+    "content": "Before the First Deception, Adam is Primordial Clod.",
+    "author": "Edward Dahlberg",
+    "authoref": "",
+    "tags": [
+      "original sin",
+      "adam"
+    ],
+    "booktitle": "Can These Bones Live"
+  },
+  {
+    "postId": "1743329481125",
+    "content": "Nobody owes me a living.",
+    "author": "William T. Vollmann",
+    "authoref": "",
+    "tags": [
+      "money"
+    ]
+  },
+  {
+    "postId": "1743329809298",
+    "content": "Hamlet's sorrow is our horoscope, so much we know; but history does not improve man and auguries do not make him wiser",
+    "author": "Edward Dahlberg",
+    "authoref": "",
+    "tags": [
+      "history",
+      "hamlet"
+    ],
+    "booktitle": "Can These Bones Live"
+  },
+  {
+    "postId": "1743329995530",
+    "content": "Nor on the beasts themselves, the birds and fishes; you must eat men.",
+    "author": "William Shakespeare",
+    "authoref": "",
+    "tags": [
+      "men"
+    ]
+  },
+  {
+    "postId": "1743330562581",
+    "content": "At the nethermost core of history, and at the underside of war and poverty, lies tedium",
+    "author": "Edward Dahlberg",
+    "authoref": "",
+    "tags": []
+  },
+  {
+    "postId": "1743332442710",
+    "content": "Did Judas betray Jesus for thirty pieces of silver? Nay. For a Kiss Judas betrayed Jesus!",
+    "author": "Edward Dahlberg",
+    "authoref": "",
+    "tags": [
+      "jesus",
+      "judas"
+    ],
+    "booktitle": "Can These Bones Live"
+  },
+  {
+    "postId": "1743395027917",
+    "content": "Caged animals are indecent for a reason.",
+    "author": "Guy Davenport",
+    "authoref": "",
+    "tags": [
+      "animals",
+      "virtue"
+    ],
+    "booktitle": "National Review"
+  },
+  {
+    "postId": "1743395361359",
+    "content": "Might we not say that every child at play behaves like a creative writer, in that he creates a world of his own, or, rather, rearranges the things of his world in a new way which pleases him? It would be wrong to think he does not take that world seriously; on the contrary, he takes his play very seriously and he expends large amounts of emotion on it.",
+    "author": "Sigmund Freud",
+    "authoref": "",
+    "tags": [
+      "children",
+      "writing"
+    ],
+    "booktitle": "Creative Writer's and Daydreaming"
+  },
+  {
+    "postId": "1743395591154",
+    "content": "In only a single field of our civilization has the omnipotence of thoughts been retained, and that is in the field of art. Only in art does it still happen that a man who is consumed by desires performs something resembling the accomplishment of those desires and that what he does in play produces emotional effects—thanks to artistic illusion—just as though it were something real. People speak with justice of the ‘magic of art’ and compare artists to magicians. But the comparison is perhaps more significant than it claims to be. There can be no doubt that art did not begin as art for art’s sake. It worked originally in the service of impulses which are for the most part extinct today. And among them we may suspect the presence of many magical purposes.",
+    "author": "Sigmund Freud",
+    "authoref": "",
+    "tags": [
+      "magic",
+      "the arts"
+    ],
+    "booktitle": "Totem and Taboo"
+  },
+  {
+    "postId": "1743395936930",
+    "content": "We come nearer the heart of tragedy when the catastrophe is seen, not as a consequence of what one has done, but as the end of what one is. The Christian original sin, the medieval wheel of fortune, the existentialist's 'dread' are all attempts to express the tragic situation as primary and uncaused, as a condition and not an act, and such ideas bring us closer than Aristotle's flaw (hamartia) does to the unconscious crime of Oedipus, the unjust death of Cordelia, or the undeserved suffering of Job. When we pass beyond hamartia, the tragic version of law shows itself to be a vision of the supremacy of the event (mythos).",
+    "author": "Northrope Frye",
+    "authoref": "",
+    "tags": [
+      "tragedy",
+      "original sin"
+    ],
+    "booktitle": "Educated Imagination"
+  },
+  {
+    "postId": "1743396081189",
+    "content": "These lines are curiously ambiguous, with the full weight of the ambiguity concentrated in the word \"thing.\" Within the mystified world of the past, when the temporal reality of death was repressed or forgotten, the word \"thing\" could be used quite innocently, perhaps even in a playfully amorous way (since the deceased entity is a \"she\"). The line could almost be a gallant compliment to the well-preserved youth of the lady, in spite of the somewhat ominous \"seemed.\" The curious shock of the poem, the very Wordsworthian \"shock of mild surprise,\" is that this innocuous statement becomes literally true in the retrospective perspective of the eternal \"now\" of the second part. She now has become a thing in the full sense of the word, not unlike Baudelaire's falling man who became a thing in the grip of gravity, and, indeed, she exists beyond the touch of earthly years.",
+    "author": "Paul de Man",
+    "authoref": "Baudelaire",
+    "tags": [
+      "tragedy",
+      "original sin"
+    ],
+    "booktitle": "Rhetoric of Temporality"
+  },
+  {
+    "postId": "1743396178181",
+    "content": "... In general, this is probably the most fundamental irony of irony, that we just get tired of it when it is offered to us everywhere and again and again. But what we want to understand here as the irony of irony arises in more than one way. If you talk about irony without irony, as was the case just now; when you talk about an irony with irony without noticing that you are currently in another, much more striking irony; if one cannot get out of the irony again, as seems to be the case in this attempt at incomprehensibility; when irony becomes a mannerism and thus, as it were, ironies the poet again; when one has promised irony to become a superfluous pocket book without first overlooking one's supply and now has to use irony against one's will, like a visual actor who has physical heart; when irony becomes wild and can no longer be governed.<p></p>Which gods will be able to save us from all these ironies? The only thing would be if an irony were to be found that had the property of concealing and destroying all those big and small ironies, so that nothing more could be seen of it, and I have to admit that I have a noticeable disposition to do just that in mine -tion feel. But that would only help for a short time. leh fiireht ... a new generation of little ironies would soon arise: because the stars really point to fantastic things. And if everything remained quiet for a long period of time, it wouldn't be trustworthy. The irony is definitely not something to be joked about. It can have an incredibly long lasting effect...",
+    "author": "Friedrich Schlegel",
+    "authoref": "",
+    "tags": [
+      "irony"
+    ],
+    "booktitle": "On Incomprehensibility"
+  },
+  {
+    "postId": "1743396226149",
+    "content": "Schlegel's rhetorical question \"What gods will be able to rescue us from all these ironies?\" can also be taken quite literally. For the later Friedrich Schlegel, as for Kierkegaard, the solution could only be a leap out of language into faith.",
+    "author": "Paul de Man",
+    "authoref": "Friedrich Schlegel",
+    "tags": [
+      "irony"
+    ],
+    "booktitle": "Rhetoric of Temporality"
+  },
+  {
+    "postId": "1743396492052",
+    "content": "But, when the concept of \"superiority\" is still being used when the self is engaged in a relationship not to other subjects, but to what is precisely not a self, then the so-called superiority merely designates the <i>distance</i> constitutive of all acts of reflection. Superiority and inferiority then become merely spatial metaphors to indicate a discontinuity and a plurality of levels within a subject that comes to know itself by an increasing differentiation form what is not. Baudelaire insists that irony, as \"comique absolu,\" is an infinitely higher form of comedy than is the intersubjective kind of humor he finds ....The <i>dédoublement</i> thus designates the activity of a consciousness by which a man differentiates himself from the non-human world.",
+    "author": "Paul de Man",
+    "authoref": "Baudelaire",
+    "tags": [
+      "irony"
+    ],
+    "booktitle": "Rhetoric of Temporality"
+  },
+  {
+    "postId": "1743396706087",
+    "content": "Jean Starobinski, who has written very well on the subject, allows that irony can be considered a cure for a self lost in the alienation of its melancholy...Yet the effect of irony seems to be the opposite of what Starobinski here proposes. Almost simultaneously with the first duplication of the self, by means of which a purely \"linguistic\" subject replaces the original self, a new disjunction has to take place. The temptation at once arises for the ironic subject to construe its function as one of assistance to the original self and to act as if it existed for the sake of this world-bound person. This results in an immediate degradation to an intersubjective level, away from the \"comique absolu\" into what Baudelaire calls \"comique significatif,\" into a betrayal of the ironic mode. Instead, the ironic subject at once has to ironize its own predicament and observe in turn, with the detachment and disinterestedness that Baudelaire demands of this kind of spectator, the temptation to which it is about to succumb. It does so precisely by avoiding the return to the world mentioned by Starobinski, by reasserting the purely fictional nature of its own universe and by carefully maintaining the radical difference that separates fiction from the world of empirical reality.",
+    "author": "Paul de Man",
+    "authoref": "Baudelaire",
+    "tags": [
+      "irony"
+    ],
+    "booktitle": "Rhetoric of Temporality"
+  },
+  {
+    "postId": "1743396758344",
+    "content": "Far from being a return to the world, the irony to the second power or \"irony of irony\" that all true irony at once has to engender asserts and maintains its fictional character by stating the continued impossibility of reconciling the world of fiction with the actual world.",
+    "author": "Paul de Man",
+    "authoref": "Baudelaire",
+    "tags": [
+      "irony",
+      "fiction"
+    ],
+    "booktitle": "Rhetoric of Temporality"
+  },
+  {
+    "postId": "1743396823004",
+    "content": "Schlegel makes clear, however, that the effect of this intrusion is not a heightened realism, an affirmation of the priority of a historical over a fictional act, but that it has the very opposite aim and effect: it serves to prevent the all too readily mystified reader from confusing fact and fiction and from forgetting the essential negativity of the fiction. The problem is familiar to students of point of view in a fictional narrative, in the distinction they have learned to make between the persona of the author and the persona of the fictional narrator. The moment when this difference is asserted is precisely the moment when the author does not return to the world. He asserts instead the ironic necessity of not becoming the dupe of his own irony and discovers that there is no way back from his fictional self to his actual self.",
+    "author": "Paul de Man",
+    "authoref": "Friedrich Schlegel",
+    "tags": [
+      "irony",
+      "fiction"
+    ],
+    "booktitle": "Rhetoric of Temporality"
+  },
+  {
+    "postId": "1743396843566",
+    "content": "Every word in this admirable quotation is right from the point of view of the mystified self, but wrong from the point of view of the ironist. Szondi has to posit the belief in a reconciliation between the ideal and the real as the result of an action or the activity of the mind. But it is precisely this assumption that the ironist denies. Friedrich Schlegel is altogether clear on this. The dialectic of the self-destruction and self- invention which for him, as for Baudelaire, characterizes the ironic mind is an endless process that leads to no synthesis. The positive name he gives to the infinity of this process is freedom, the unwillingness of the mind to accept any stage in its progression as definitive, since this would stop what he calls its \"infinite agility.\" In temporal terms it designates the fact that irony engenders a temporal sequence of acts of consciousness which is endless. Contrary to Szondi's assertion, irony is not temporary (vorliiufig) but repetitive, the recurrence of a self-escalating act of consciousness.",
+    "author": "Paul de Man",
+    "authoref": "Friedrich Schlegel",
+    "tags": [
+      "irony",
+      "fiction"
+    ],
+    "booktitle": "Rhetoric of Temporality"
+  },
+  {
+    "postId": "1743396867688",
+    "content": "Our description seems to have reached a provisional conclusion. The act of irony, as we know understand it, reveals the existence of a temporality that is definitely not organic, in that it relates to its source only in terms of distance and difference and allows for no end, for no totality. Irony divides the flow of temporal experience into a past that is pure mystification and a future that remains harassed forever by a relapse within the inauthentic. It can know this inauthenticity but can never overcome it. It can only restate and repeat it on an increasingly conscious level, but it remains endlessly caught in the impossibility of making this knowledge applicable to the empirical world. It dissolves in the narrowing spiral of a linguistic sign that becomes more and more remote from its meaning, and it can find no escape from this spiral. The temporal void that it reveals is the same void we encountered when we found allegory always implying an unreachable anteriority. Allegory and irony are thus linked in their common discovery of a truly temporal predicament. They are also linked in their common de- mystification of an organic world postulated in a symbolic mode of analogical correspondences or in a mimetic mode of representation in which fiction and reality could coincide. It is especially against the latter mystification that irony is directed: the regression in critical in- sight found in the transition from an allegorical to a symbolic theory of poetry would find its historical equivalent in the regression from the eighteenth-century ironic novel, based on what Friedrich Schlegel called \"Parekbase, \" to nineteenth-century realism.",
+    "author": "Paul de Man",
+    "authoref": "Friedrich Schlegel",
+    "tags": [
+      "irony",
+      "fiction"
+    ],
+    "booktitle": "Rhetoric of Temporality"
+  },
+  {
+    "postId": "1743396940236",
+    "content": "Poetry is the means by which, in his ignorance of the means Sartre has proposed to him, he can escape from being reduced to the reflection of things. It is true that poetry, in its quest for the identity of reflected things and the consciousness which reflects them, wants the impossible. But surely the very means of avoiding reduction to the reflection of things constitute a desire for the impossible.",
+    "author": "Georges Bataille",
+    "authoref": "Jean Paul Sartre",
+    "tags": [
+      "poetry"
+    ],
+    "booktitle": "Literature and Evil"
+  },
+  {
+    "postId": "1743396974287",
+    "content": "The mainspring of human activity is generally the desire to reach the point farthest from the funereal domain, which is rotten, dirty and impure. We make every effort to efface the traces, signs and symbols of death. Then, if we can, we efface the traces and signs of these efforts. The disgust the rich feel for the workers...depend on the fact that in their eyes the poor are closer to death than themselves.",
+    "author": "Georges Bataille",
+    "authoref": "",
+    "tags": [
+      "poetry",
+      "death"
+    ],
+    "booktitle": "Literature and Evil"
+  },
+  {
+    "postId": "1743396993197",
+    "content": "The paradox of Blake is to have returned the essentials of religion to those of poetry and to have at the same time revealed, through lack of strength, that poetry in itself cannot both be free and have a sovereign value. It is to say that it cannot really be both poetry and religion. What it shows is the absence of the religion which it should have been. It is religion in the same way as the memory of a beloved being brings home to us how impossible absence is. It is undoubtedly sovereign, but it is sovereign in the desire for the object, not the possession of it. Poetry is right to assert the extent of its empire, but we cannot contemplate this extent without immediately knowing that it is completely elusive: it is not the empire so much as the impotence of poetry. At the origin of poetry bonds are shed, and only impotent liberty remains.",
+    "author": "Georges Bataille",
+    "authoref": "William Blake",
+    "tags": [
+      "poetry",
+      "death"
+    ],
+    "booktitle": "Literature and Evil"
+  },
+  {
+    "postId": "1743397044879",
+    "content": "...in literature at least, the nostrum killeth but the nostalgia may give life.",
+    "author": "Ian Watt",
+    "authoref": "",
+    "tags": [
+      "nostalgia",
+      "literature"
+    ],
+    "booktitle": "The Rise of the Novel"
+  },
+  {
+    "postId": "1743397099877",
+    "content": "On January 27, 1796, the young researcher Charles Cuvier gave his first public lecture at the Institute de France in Paris. Before a deeply shocked audience he proved that the species created by God were not eternal. They could, he said, 'become extinct' in a kind of 'revolution of the earth.' And we, the new tribes that have taken their place, could ourselves be destroyed one day, and replaced by others.",
+    "author": "Sven Lindquist",
+    "authoref": "",
+    "tags": [
+      "death",
+      "extinction"
+    ],
+    "booktitle": "A History of Bombing"
+  },
+  {
+    "postId": "1743397727293",
+    "content": "If we look into the Manners of the most remote Ages of the World, we discover human Nature in her Simplicity; and the more we come downwards towards our own Times, may observe her hiding herself in Artifices and Refinements, Polished insensibly out of her Original Plainness, and at length entirely lost under Form and Ceremony, and (what we call) good Breeding. Read the Accounts of Men and Women as they are given us by the most ancient Writers, both Sacred and Prophane, and you would think you were reading the History of another Species. (209)",
+    "author": "Joseph Addison",
+    "authoref": "",
+    "tags": [
+      "human nature"
+    ],
+    "booktitle": "The Spectator"
+  },
+  {
+    "postId": "1743398204620",
+    "content": "The romance constitutes what may be called the transition between real and imaginary existence...Nothing can be experienced that we do not remember to have read before, and all the veils of the heart have been rent. The ancients would never thus have made of the human soul a subject of fiction; it remains a sanctuary for them, into which their own looks would have feared to penetrate; but in fine, if the class of novels is once admitted, there must be interest in it; and it is, as Cicero said of action in his Orator, the condition trebly necessary. (Of Romances)\n",
+    "author": "Madame de Stael",
+    "authoref": "",
+    "tags": [
+      "fiction"
+    ],
+    "booktitle": "On Germany"
+  },
+  {
+    "postId": "1743398263715",
+    "content": "Shakespeare's sense of the historical past, for example, is very different from the modern one. Troy and Rome, the Plantagenets and the Tudors, none of them are far enough back to be very different from the present or from each other. In this Shakespeare reflects the view of his age: he had been dead for thirty years before the world 'anachronism' first appeared in English, and he was still very close to the mediaeval conception of history by which, whatever the period, the wheel of time churns out the same eternally applicable <i>expempla</i>. ",
+    "author": "Ian Watt",
+    "authoref": "William Shakespeare",
+    "tags": [
+      "fiction",
+      "history"
+    ],
+    "booktitle": "The Rise of the Novel"
+  },
+  {
+    "postId": "1743398282874",
+    "content": "The authority of print—the impression that all that is printed is necessarily true—was established very early...Nothing printed has any of the individuality, the margin of error, the assertion of personal idiosyncrasy, which even the best manuscript retains...",
+    "author": "Ian Watt",
+    "authoref": "",
+    "tags": [
+      "fiction",
+      "printing"
+    ],
+    "booktitle": "The Rise of the Novel"
+  },
+  {
+    "postId": "1743398334058",
+    "content": "The combination of romance and formal realism applied both to external actions and inward feelings is the formula which explains the power of the popular novel: it satisfies the romantic aspirations of its readers in a literary guide which gives so full a background and so complete an account of the minute-by-minute details of thought and sentiment that what is fundamentally an unreal flattery of the reader's dreams appears to be the literal truth. For this reason, the popular novel is obviously liable to severe moral censure where the fairy story or the romance is not: it pretends to be something else, and, mainly owing to the new power which accrued to formal realism as a result of the subjective direction which Richardson gave it, it confuses the differences between reality and dream more insidiously than any previous fictions.",
+    "author": "Ian Watt",
+    "authoref": "",
+    "tags": [
+      "fiction and reality",
+      "fiction"
+    ],
+    "booktitle": "The Rise of the Novel"
+  },
+  {
+    "postId": "1743398378292",
+    "content": "Kafka, perhaps without knowing it, felt deeply, that to write is to surrender to the incessant; and, out of anxiety—fear of impatience—and scrupulous attention to the work's demand, he most often denied himself the leap which alone permits finishing, the insouciant and happy confidence by which (momentarily) a limit is placed upon the interminable.",
+    "author": "Maurice Blanchot",
+    "authoref": "Franz Kafka",
+    "tags": [
+      "writing"
+    ],
+    "booktitle": "The Space of Literature"
+  },
+  {
+    "postId": "1743398465468",
+    "content": "In Homer, one is struck by the fact that his heroes with their magnificent vitality and activity feel themselves at every turn not free agents but passive instruments or victims of other powers.",
+    "author": "R. B. Onians",
+    "authoref": "Homer",
+    "tags": [
+      "ancient greece",
+      "gods"
+    ],
+    "booktitle": "The Origins of European Thought"
+  },
+  {
+    "postId": "1743398515806",
+    "content": "The real difference is that we do not bring forward from one context to the next the same set of ever more powerful symbols: our experience is fragmented. Our rituals create a lot of little sub-worlds, unrelated. (re cross-cultural contexts)",
+    "author": "Mary Douglas",
+    "authoref": "",
+    "tags": [
+      "context",
+      "fragmentation"
+    ],
+    "booktitle": "Purity and Danger"
+  },
+  {
+    "postId": "1743398570502",
+    "content": "Laughter is the expression of a double or contradictory feeling ... belongs to the class of all artistic phenomena that show the existence in the human being of a permanent dualism, the capacity of being both himself and someone else at one and the same time.",
+    "author": "Baudelaire",
+    "authoref": "",
+    "tags": [
+      "laughter",
+      "dualism"
+    ],
+    "booktitle": "\"Of the Essence of Laughter\""
+  },
+  {
+    "postId": "1743398705781",
+    "content": "It is the secret of the world that all things subsist and do not die, but only retire a little from sight and afterwards return again. Nothing is dead; men feign themselves dead, and endure mock funerals and mournful obituaries, and there they stand looking out of the window, sound and well, in some new strange disguise. Jesus is not dead; he is very well alive; nor John, nor Paul, nor Mahomet, nor Aristotle; at times we believe we have seen them all, and could easily tell the names under which they go. ",
+    "author": "Ralph Waldo Emerson",
+    "authoref": "",
+    "tags": [
+      "death",
+      "names",
+      "eternal return"
+    ],
+    "booktitle": "\"Nominalist and Realist\""
+  },
+  {
+    "postId": "1743398724549",
+    "content": "...is not munificence the means of insight?",
+    "author": "Ralph Waldo Emerson",
+    "authoref": "",
+    "tags": [
+      "insight"
+    ],
+    "booktitle": "\"Nominalist and Realist\""
+  },
+  {
+    "postId": "1743398763960",
+    "content": "You are one thing, but nature is <i>one thing and the other thing</i>, in the same moment.",
+    "author": "Ralph Waldo Emerson",
+    "authoref": "",
+    "tags": [
+      "nature"
+    ],
+    "booktitle": "\"Nominalist and Realist\""
+  },
+  {
+    "postId": "1743398775122",
+    "content": "and the sanity of society is a balance of a thousand insanities.",
+    "author": "Ralph Waldo Emerson",
+    "authoref": "",
+    "tags": [
+      "society",
+      "sanity"
+    ],
+    "booktitle": "\"Nominalist and Realist\""
+  },
+  {
+    "postId": "1743398813033",
+    "content": "In the year 1805, it is said, every legitimate monarch in Europe was imbecile.",
+    "author": "Ralph Waldo Emerson",
+    "authoref": "",
+    "tags": [
+      "idiots",
+      "monarchs"
+    ],
+    "booktitle": "Manners"
+  },
+  {
+    "postId": "1743398853092",
+    "content": "Diogenes, Socrates, and Epaminondas, are gentlemen of the best blood, who have chosen the condition of poverty, when that of wealth was equally open to them. I use old names but the men I speak of are my contemporaries.",
+    "author": "Ralph Waldo Emerson",
+    "authoref": "",
+    "tags": [
+      "money",
+      "names",
+      "virtue"
+    ],
+    "booktitle": "Manners"
+  },
+  {
+    "postId": "1743398897325",
+    "content": "...after all, what we call truth is only the hypothesis which is found to work best.",
+    "author": "James George Frazer",
+    "authoref": "",
+    "tags": [
+      "truth"
+    ],
+    "booktitle": "The Golden Bough"
+  },
+  {
+    "postId": "1743399049729",
+    "content": "The golden worlde is past sayth some, <br> But nowe saye I that worlde is come: <br> Now all things may for Golde be had <br> For Gayne of Golde, both good and bad.",
+    "author": "Thomas Howell",
+    "authoref": "",
+    "tags": [
+      "poems"
+    ],
+    "booktitle": "The poems of Thomas Howell 1568-1581"
+  },
+  {
+    "postId": "1743399102346",
+    "content": "A set of nagging worries",
+    "author": "Gabriel Josipovici",
+    "authoref": "",
+    "tags": [
+      "worry"
+    ],
+    "booktitle": "Writing and the Body"
+  },
+  {
+    "postId": "1743399361419",
+    "content": "The imagination operates in a counter-historical direction—it redeems time, as Shelley says— and literature exists totally in the present tense as the total form of the verbal imagination, or what Shelley calls \"that great poem, which all poets, like the co-operating thoughts of one great mind, have built up since the beginning of the world.",
+    "author": "Northrope Frye",
+    "authoref": "",
+    "tags": [
+      "imagination",
+      "time",
+      "literature"
+    ],
+    "booktitle": "\"The Social Context of Literary Criticism\""
+  },
+  {
+    "postId": "1743399609751",
+    "content": "The generalization of today will be revolutionized into oblivion tomorrow.",
+    "author": "Arthur C. Danto",
+    "authoref": "",
+    "tags": [
+      "time",
+      "truth"
+    ],
+    "booktitle": "The Transfiguration of the Commonplace"
+  },
+  {
+    "postId": "1743399702734",
+    "content": "It seems to me normal to begin with the life-occasion as we deduce it from the poem; it is only an error when one ends there.",
+    "author": "Helen Vendler",
+    "authoref": "Wallace Stevens",
+    "tags": [
+      "poetry"
+    ],
+    "booktitle": "Wallace Stevens, Words Chosen Out of Desire"
+  },
+  {
+    "postId": "1743399753156",
+    "content": "And yet there is no diminution of desire: there is only a loss of belief in a possible object adequate to desire. (Connoisseur of Chaos)",
+    "author": "Helen Vendler",
+    "authoref": "Wallace Stevens",
+    "tags": [
+      "desire",
+      "poetry"
+    ],
+    "booktitle": "Wallace Stevens, Words Chosen Out of Desire"
+  },
+  {
+    "postId": "1743399820912",
+    "content": "Penelope's web becomes for Stevens the very image of human desire: woven afresh every day, it is unraveled again every evening; and each exhilaration of possession is followed by the despair of disbelief.",
+    "author": "Helen Vendler",
+    "authoref": "Wallace Stevens",
+    "tags": [
+      "desire",
+      "poetry"
+    ],
+    "booktitle": "Wallace Stevens, Words Chosen Out of Desire"
+  },
+  {
+    "postId": "1743399840452",
+    "content": "...desire is indistinguishable from despair, once we have understood the endlessness of its quest.",
+    "author": "Helen Vendler",
+    "authoref": "Wallace Stevens",
+    "tags": [
+      "desire",
+      "poetry"
+    ],
+    "booktitle": "Wallace Stevens, Words Chosen Out of Desire"
+  },
+  {
+    "postId": "1743400052233",
+    "content": "Nature can be infinitely reassuring, a virtual idyll, if we don't think about its history. The delight, the pastoral, is sustained through the denial of origins...We are always relaxing in the killing fields.",
+    "author": "Adam Phillips",
+    "authoref": "",
+    "tags": [
+      "nature",
+      "history",
+      "pastoral",
+      "denial"
+    ],
+    "booktitle": "Darwin's Worms"
+  },
+  {
+    "postId": "1743400117611",
+    "content": "He was not a criminal (or a god); he outwitted the authorities, and was celebrated for doing so. It was the perfect spectacle for any apparently law-abiding society committed to progress. He was the secular and successful Prometheus, inside the law and beyond; he was a picture of the exorbitant entrepreneur, abolishing the category of the impossible; a man who was to help the police, but instruction and challenge, to improve their handcuffs; a man who would mercilessly expose those spiritualists who claimed that they could release the dead from their silence.",
+    "author": "Adam Phillips",
+    "authoref": "Houdini",
+    "tags": [
+      "prometheus",
+      "boundaries"
+    ],
+    "booktitle": "Houdini's Box"
+  },
+  {
+    "postId": "1743400143326",
+    "content": "He would devote his life to the performance of a violent parody of assimilation. He would be the man who could adapt to anything and escape from it.",
+    "author": "Adam Phillips",
+    "authoref": "Houdini",
+    "tags": [
+      "adaptation",
+      "devotion"
+    ],
+    "booktitle": "Houdini's Box"
+  },
+  {
+    "postId": "1743400165882",
+    "content": "ravenous boredom (of Houdini himself)",
+    "author": "Adam Phillips",
+    "authoref": "Houdini",
+    "tags": [
+      "motivation"
+    ],
+    "booktitle": "Houdini's Box"
+  },
+  {
+    "postId": "1743400177301",
+    "content": "What one is escaping from is inextricable from, if not defined by, what one is escaping to.",
+    "author": "Adam Phillips",
+    "authoref": "Houdini",
+    "tags": [
+      "escape",
+      "motivation"
+    ],
+    "booktitle": "Houdini's Box"
+  },
+  {
+    "postId": "1743400203738",
+    "content": "...the initial wish to escape is a form of recognition...",
+    "author": "Adam Phillips",
+    "authoref": "Houdini",
+    "tags": [
+      "escape",
+      "motivation"
+    ],
+    "booktitle": "Houdini's Box"
+  },
+  {
+    "postId": "1743400212806",
+    "content": "...it was left ambiguous whether Houdini was sowing the seeds of anarchy...or reassuring the forces of law and order.",
+    "author": "Adam Phillips",
+    "authoref": "Houdini",
+    "tags": [
+      "escape",
+      "motivation"
+    ],
+    "booktitle": "Houdini's Box"
+  },
+  {
+    "postId": "1743400256947",
+    "content": "He needed to expose what people could do with their hands.",
+    "author": "Adam Phillips",
+    "authoref": "Houdini",
+    "tags": [
+      "motivation",
+      "limitations",
+      "human nature"
+    ],
+    "booktitle": "Houdini's Box"
+  },
+  {
+    "postId": "1743400302610",
+    "content": "His audiences could watch an endangered body willingly struggle with its vulnerability, and apparently not be implicated (as though the magic of money was that paying bought you moral exemption.) There could be nothing more preposterous to the spectators than the idea that Houdini was performing the profound existential questions of their culture.",
+    "author": "Adam Phillips",
+    "authoref": "Houdini",
+    "tags": [
+      "magic",
+      "limitations",
+      "money"
+    ],
+    "booktitle": "Houdini's Box"
+  },
+  {
+    "postId": "1743400318325",
+    "content": "Transgression is the attempt to find out exactly what it is impossible to escape from.",
+    "author": "Adam Phillips",
+    "authoref": "Houdini",
+    "tags": [
+      "transgression",
+      "limitations"
+    ],
+    "booktitle": "Houdini's Box"
+  },
+  {
+    "postId": "1743400488653",
+    "content": "And it is not wholly surprising that, like these mythical heroes or antiheroes, he was quickly drawn to flying, to the symbol of modern people's hubris. This is what money is now, this is what it pays for in ever more ambitious ventures—spectacular escape. People getting ahead of themselves. People getting away from it all.",
+    "author": "Adam Phillips",
+    "authoref": "Houdini",
+    "tags": [
+      "flying",
+      "hubris",
+      "money",
+      "escape"
+    ],
+    "booktitle": "Houdini's Box"
+  },
+  {
+    "postId": "1743400508553",
+    "content": "You're so busy making choices that you're never taking any risks.",
+    "author": "Adam Phillips",
+    "authoref": "Houdini",
+    "tags": [
+      "risk",
+      "choice"
+    ],
+    "booktitle": "Houdini's Box"
+  },
+  {
+    "postId": "1743400526958",
+    "content": "When there is nothing left of Houdini, you may think of me as having done something to entertain you.",
+    "author": "Houdini",
+    "authoref": "",
+    "tags": [
+      "names",
+      "entertainment"
+    ],
+    "booktitle": "Houdini's Box"
+  },
+  {
+    "postId": "1743400687014",
+    "content": "Once the grave has been filled in, it must be sewn with acorns so that, in the future, the ground will  again be covered with vegetation, the copse will be as thick as it was before, and the traces of my tomb will disappear from the surface of the earth as I hope my memory will vanish from the memory of men.",
+    "author": "Marquis de Sade",
+    "authoref": "",
+    "tags": [
+      "death",
+      "memory"
+    ],
+    "booktitle": ""
+  },
+  {
+    "postId": "1743400713878",
+    "content": "Words, we know, have the power to make things disappear, to make them appear as things that have vanished.",
+    "author": "Maurice Blanchot",
+    "authoref": "",
+    "tags": [
+      "words",
+      "writing",
+      "magic"
+    ],
+    "booktitle": "The Space of Literature"
+  },
+  {
+    "postId": "1743400760193",
+    "content": "laughter in order to replace terror",
+    "author": "Mikhail Bakhtin",
+    "authoref": "",
+    "tags": [
+      "laughter",
+      "terror"
+    ],
+    "booktitle": "Rabelais and his World"
+  },
+  {
+    "postId": "1743400790049",
+    "content": "In the sphere of imagery cosmic fear (as any other fear) is defeated by laughter. Therefore dung and urine, as comic matter that can be interpreted bodily, play an important part in these images. They appear in hyperbolic quantities and cosmic dimensions. Cosmic catastrophe represented in the material bodily lower stratum is degraded, humanized, and transformed into grotesque monsters. Terror is conquered by laughter.",
+    "author": "Mikhail Bakhtin",
+    "authoref": "",
+    "tags": [
+      "laughter",
+      "human waste"
+    ],
+    "booktitle": "Rabelais and his World"
+  },
+  {
+    "postId": "1743400816384",
+    "content": "In the physician's eyes the body was first of all represented by the elimination of urine, feces, sweat, mucus, and bile.",
+    "author": "Mikhail Bakhtin",
+    "authoref": "",
+    "tags": [
+      "human waste"
+    ],
+    "booktitle": "Rabelais and his World"
+  },
+  {
+    "postId": "1743400831920",
+    "content": "...the object is evaluated in accord with its efficacy as a swab, completely apart from its original function.",
+    "author": "Mikhail Bakhtin",
+    "authoref": "",
+    "tags": [
+      "human waste"
+    ],
+    "booktitle": "Rabelais and his World"
+  },
+  {
+    "postId": "1743400869717",
+    "content": "...where alone no objects can intrude: in the mind.",
+    "author": "Hugh Kenner",
+    "authoref": "",
+    "tags": [
+      "privacy",
+      "the mind"
+    ],
+    "booktitle": "The Pound Era"
+  },
+  {
+    "postId": "1743400880911",
+    "content": "...a patterned energy made visible by the water.",
+    "author": "Hugh Kenner",
+    "authoref": "",
+    "tags": [
+      "privacy",
+      "the mind"
+    ],
+    "booktitle": "The Pound Era"
+  },
+  {
+    "postId": "1743401029922",
+    "content": "Eternity: the perpetual continuation of the past, in which the present is scarcely visible, and the captain's eyes are the sibyls of the future.",
+    "author": "Daniel Hoffman",
+    "authoref": "Edgar Allan Poe",
+    "tags": [
+      "time"
+    ],
+    "booktitle": "Poe Poe Poe Poe Poe Poe Poe"
+  },
+  {
+    "postId": "1743401051938",
+    "content": "Those words imply that if death is but a failure of our will, then our will can triumph over death if only volition be strong enough—that is, as strong as gods.",
+    "author": "Daniel Hoffman",
+    "authoref": "Edgar Allan Poe",
+    "tags": [
+      "will",
+      "death",
+      "gods"
+    ],
+    "booktitle": "Poe Poe Poe Poe Poe Poe Poe"
+  },
+  {
+    "postId": "1743401124461",
+    "content": "...as though nature herself were offering an image like those proffered by art, as an exemplum of a truth more prophetic and more true than reality itself, which is apprehended only as an appearance.",
+    "author": "Daniel Hoffman",
+    "authoref": "Edgar Allan Poe",
+    "tags": [
+      "nature",
+      "image",
+      "truth",
+      "appearance"
+    ],
+    "booktitle": "Poe Poe Poe Poe Poe Poe Poe"
+  }
 ]
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
